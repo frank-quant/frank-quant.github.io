@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en" dir="ltr" class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-tools/freqtrade/freqtrade-basics" data-has-hydrated="false">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v3.8.1">
+<title data-rh="true">Freqtrade 基础 | Frank Quant</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:image" content="https://frank-quant.github.io/img/docusaurus-social-card.jpg"><meta data-rh="true" name="twitter:image" content="https://frank-quant.github.io/img/docusaurus-social-card.jpg"><meta data-rh="true" property="og:url" content="https://frank-quant.github.io/docs/tools/freqtrade/freqtrade-basics"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Freqtrade 基础 | Frank Quant"><meta data-rh="true" name="description" content="Freqtrade 官方&quot;Freqtrade Basics&quot;页面中文翻译，保留原结构、提示块与代码块格式。"><meta data-rh="true" property="og:description" content="Freqtrade 官方&quot;Freqtrade Basics&quot;页面中文翻译，保留原结构、提示块与代码块格式。"><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://frank-quant.github.io/docs/tools/freqtrade/freqtrade-basics"><link data-rh="true" rel="alternate" href="https://frank-quant.github.io/docs/tools/freqtrade/freqtrade-basics" hreflang="en"><link data-rh="true" rel="alternate" href="https://frank-quant.github.io/docs/tools/freqtrade/freqtrade-basics" hreflang="x-default"><script data-rh="true" type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"04 Freqtrade基础","item":"https://frank-quant.github.io/docs/tools/freqtrade/freqtrade-basics"}]}</script><link rel="alternate" type="application/rss+xml" href="/blog/rss.xml" title="Frank Quant RSS Feed">
+<link rel="alternate" type="application/atom+xml" href="/blog/atom.xml" title="Frank Quant Atom Feed">
+
+
+
+
+<link rel="preconnect" href="https://www.google-analytics.com">
+<script>window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)},ga.l=+new Date,ga("create","G-XXXXXXXXXX","auto"),ga("set","anonymizeIp",!0),ga("send","pageview")</script>
+<script async src="https://www.google-analytics.com/analytics.js"></script><link rel="stylesheet" href="/assets/css/styles.f0aeb2b0.css">
+<script src="/assets/js/runtime~main.9b58641c.js" defer="defer"></script>
+<script src="/assets/js/main.9d7ebf38.js" defer="defer"></script>
+</head>
+<body class="navigation-with-keyboard">
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;"><defs>
+<symbol id="theme-svg-external-link" viewBox="0 0 24 24"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"/></symbol>
+</defs></svg>
+<script>!function(){var t="light";var e=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme")}catch(t){}}();document.documentElement.setAttribute("data-theme",e||t),document.documentElement.setAttribute("data-theme-choice",e||t)}(),function(){try{const c=new URLSearchParams(window.location.search).entries();for(var[t,e]of c)if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id="__docusaurus"><link rel="preload" as="image" href="/img/logo.png"><div role="region" aria-label="Skip to main content"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">Skip to main content</a></div><nav aria-label="Main" class="theme-layout-navbar navbar navbar--fixed-top"><div class="navbar__inner"><div class="theme-layout-navbar-left navbar__items"><button aria-label="Toggle navigation bar" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/logo.png" alt="Frank Quant Logo" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/img/logo.png" alt="Frank Quant Logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"></div><b class="navbar__title text--truncate">Frank Quant</b></a><a class="navbar__item navbar__link" href="/docs/basics/crypto-basics/intro">基本概念</a><a class="navbar__item navbar__link" href="/docs/tutorial/intro">入门教程</a><a class="navbar__item navbar__link" href="/docs/strategy/basic-strategies/Bandtastic">策略分享</a><a aria-current="page" class="navbar__item navbar__link navbar__link--active" href="/docs/tools/freqtrade/03 installation/intro">实用工具</a><a class="navbar__item navbar__link" href="/docs/books/crypto-quant-weekly-report-20251013">量化图书馆</a><a class="navbar__item navbar__link" href="/docs/live-trading/2025/2025-08-17-strategy-anf-review">实盘记录</a><a class="navbar__item navbar__link" href="/docs/ai/intro">AI相关</a><a class="navbar__item navbar__link" href="/blog">博客</a><a class="navbar__item navbar__link" href="/docs/about/intro">关于</a></div><div class="theme-layout-navbar-right navbar__items navbar__items--right"><a href="https://github.com/frank-quant" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">GitHub<svg width="13.5" height="13.5" aria-hidden="true" class="iconExternalLink_nPIU"><use href="#theme-svg-external-link"></use></svg></a><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type="button" disabled="" title="system mode" aria-label="Switch between dark and light mode (currently system mode)"><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP lightToggleIcon_pyhR"><path fill="currentColor" d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP darkToggleIcon_wfgR"><path fill="currentColor" d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" class="toggleIcon_g3eP systemToggleIcon_QzmC"><path fill="currentColor" d="m12 21c4.971 0 9-4.029 9-9s-4.029-9-9-9-9 4.029-9 9 4.029 9 9 9zm4.95-13.95c1.313 1.313 2.05 3.093 2.05 4.95s-0.738 3.637-2.05 4.95c-1.313 1.313-3.093 2.05-4.95 2.05v-14c1.857 0 3.637 0.737 4.95 2.05z"></path></svg></button></div><div class="navbarSearchContainer_Bca1"></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="theme-layout-main main-wrapper mainWrapper_z2l0"><div class="docsWrapper_hBAB"><button aria-label="Scroll back to top" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type="button"></button><div class="docRoot_UBD9"><aside class="theme-doc-sidebar-container docSidebarContainer_YfHR"><div class="sidebarViewport_aRkj"><div class="sidebar_njMd"><nav aria-label="Docs sidebar" class="menu thin-scrollbar menu_SIkG"><ul class="theme-doc-sidebar-menu menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist menu__link--sublist-caret menu__link--active" role="button" aria-expanded="true" href="/docs/tools/freqtrade/03 installation/intro">freqtrade</a></div><ul class="menu__list"><li class="theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-2 menu__list-item menu__list-item--collapsed"><div class="menu__list-item-collapsible"><a class="menu__link menu__link--sublist" tabindex="0" href="/docs/tools/freqtrade/03 installation/intro">安装</a><button aria-label="Expand sidebar category &#x27;安装&#x27;" aria-expanded="false" type="button" class="clean-btn menu__caret"></button></div></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/docs/tools/freqtrade/intro">01 Home主页</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/docs/tools/freqtrade/docker-quickstart">02 基于Docker快速开始</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link menu__link--active" aria-current="page" tabindex="0" href="/docs/tools/freqtrade/freqtrade-basics">04 Freqtrade基础</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/docs/tools/freqtrade/configuration">05 Configuration 配置</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/docs/tools/freqtrade/strategy-101">06 策略快速入门</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/docs/tools/freqtrade/strategy-customization">07 策略自定义（Strategy Customization）</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/docs/tools/freqtrade/strategy-callbacks">08 策略回调（Strategy Callbacks）</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/docs/tools/freqtrade/stoploss">止损</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/docs/tools/freqtrade/plugins">插件</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/docs/tools/freqtrade/start-the-bot">启动机器人</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/docs/tools/freqtrade/control-the-bot">控制机器人</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/docs/tools/freqtrade/data-downloading">数据下载</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/docs/tools/freqtrade/backtesting">回测</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/docs/tools/freqtrade/hyperopt">超参数优化</a></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item"><a class="menu__link" tabindex="0" href="/docs/tools/freqtrade/backtesting">回测</a></li></ul></li><li class="theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-1 menu__list-item"><a class="menu__link" href="/docs/tools/intro">实用工具</a></li></ul></nav></div></div></aside><main class="docMainContainer_TBSr"><div class="container padding-top--md padding-bottom--lg"><div class="row"><div class="col docItemCol_VOVn"><div class="docItemContainer_Djhp"><article><nav class="theme-doc-breadcrumbs breadcrumbsContainer_Z_bl" aria-label="Breadcrumbs"><ul class="breadcrumbs"><li class="breadcrumbs__item"><a aria-label="Home page" class="breadcrumbs__link" href="/"><svg viewBox="0 0 24 24" class="breadcrumbHomeIcon_YNFT"><path d="M10 19v-5h4v5c0 .55.45 1 1 1h3c.55 0 1-.45 1-1v-7h1.7c.46 0 .68-.57.33-.87L12.67 3.6c-.38-.34-.96-.34-1.34 0l-8.36 7.53c-.34.3-.13.87.33.87H5v7c0 .55.45 1 1 1h3c.55 0 1-.45 1-1z" fill="currentColor"></path></svg></a></li><li class="breadcrumbs__item"><span class="breadcrumbs__link">freqtrade</span></li><li class="breadcrumbs__item breadcrumbs__item--active"><span class="breadcrumbs__link">04 Freqtrade基础</span></li></ul></nav><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type="button" class="clean-btn tocCollapsibleButton_TO0P">On this page</button></div><div class="theme-doc-markdown markdown"><blockquote>
+<p>原文来源：<a href="https://www.freqtrade.io/en/stable/bot-basics/" target="_blank" rel="noopener noreferrer"><code>https://www.freqtrade.io/en/stable/bot-basics/</code></a></p>
+</blockquote>
+<header><h1>Freqtrade 基础</h1></header>
+<p>本页面为你提供一些关于 Freqtrade 如何工作和运行的基本概念。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="freqtrade-术语">Freqtrade 术语<a href="#freqtrade-术语" class="hash-link" aria-label="Direct link to Freqtrade 术语" title="Direct link to Freqtrade 术语">​</a></h2>
+<ul>
+<li><strong>Strategy（策略）</strong>: 你的交易策略，告诉机器人要做什么。</li>
+<li><strong>Trade（交易）</strong>: 开放仓位。</li>
+<li><strong>Open Order（开放订单）</strong>: 当前在交易所下达的订单，尚未完成。</li>
+<li><strong>Pair（交易对）</strong>: 可交易的对，通常为 Base/Quote 格式（如现货 <code>XRP/USDT</code>，期货 <code>XRP/USDT:USDT</code>）。</li>
+<li><strong>Timeframe（时间框架）</strong>: 要使用的蜡烛图长度（如 <code>&quot;5m&quot;</code>，<code>&quot;1h&quot;</code>，...）。</li>
+<li><strong>Indicators（指标）</strong>: 技术指标（SMA，EMA，RSI，...）。</li>
+<li><strong>Limit order（限价单）</strong>: 以定义的限价或更好的价格执行的限价订单。</li>
+<li><strong>Market order（市价单）</strong>: 保证成交，可能会根据订单大小移动价格。</li>
+<li><strong>Current Profit（当前利润）</strong>: 此交易当前待定（未实现）利润。这主要在整个机器人和 UI 中使用。</li>
+<li><strong>Realized Profit（已实现利润）</strong>: 已经实现的利润。仅与<a href="https://www.freqtrade.io/en/stable/strategy-customization/#exit-signal-rules" target="_blank" rel="noopener noreferrer">部分退出</a>相关 - 这也解释了此项的计算逻辑。</li>
+<li><strong>Total Profit（总利润）</strong>: 已实现和未实现利润的组合。相对数字（%）是根据此交易的总投资计算的。</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="费用处理">费用处理<a href="#费用处理" class="hash-link" aria-label="Direct link to 费用处理" title="Direct link to 费用处理">​</a></h2>
+<p>Freqtrade 的所有利润计算都包含费用。对于回测/超参数优化/干跑模式，使用交易所默认费用（交易所的最低档费用）。对于实盘操作，使用交易所应用的费用（这包括 BNB 返利等）。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="交易对命名">交易对命名<a href="#交易对命名" class="hash-link" aria-label="Direct link to 交易对命名" title="Direct link to 交易对命名">​</a></h2>
+<p>Freqtrade 遵循 <a href="https://github.com/ccxt/ccxt" target="_blank" rel="noopener noreferrer">ccxt</a> 的货币命名约定。在错误的市场中使用错误的命名约定通常会导致机器人无法识别该交易对，通常会出现&quot;this pair is not available&quot;等错误。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="现货交易对命名">现货交易对命名<a href="#现货交易对命名" class="hash-link" aria-label="Direct link to 现货交易对命名" title="Direct link to 现货交易对命名">​</a></h3>
+<p>对于现货交易对，命名为 <code>base/quote</code>（如 <code>ETH/USDT</code>）。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="期货交易对命名">期货交易对命名<a href="#期货交易对命名" class="hash-link" aria-label="Direct link to 期货交易对命名" title="Direct link to 期货交易对命名">​</a></h3>
+<p>对于期货交易对，命名为 <code>base/quote:settle</code>（如 <code>ETH/USDT:USDT</code>）。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="机器人执行逻辑">机器人执行逻辑<a href="#机器人执行逻辑" class="hash-link" aria-label="Direct link to 机器人执行逻辑" title="Direct link to 机器人执行逻辑">​</a></h2>
+<p>在干跑或实盘模式下启动 freqtrade（使用 <code>freqtrade trade</code>）将启动机器人并开始机器人迭代循环。这也会运行 <code>bot_start()</code> 回调。</p>
+<p>默认情况下，机器人循环每隔几秒（<code>internals.process_throttle_secs</code>）运行一次，并执行以下操作：</p>
+<ul>
+<li>从持久化存储获取开放交易。</li>
+<li>计算当前可交易交易对列表。</li>
+<li>为交易对列表下载 OHLCV 数据，包括所有信息性交易对<br>
+<!-- -->此步骤每根蜡烛图只执行一次，以避免不必要的网络流量。</li>
+<li>调用 <code>bot_loop_start()</code> 策略回调。</li>
+<li>按交易对分析策略。<!-- -->
+<ul>
+<li>调用 <code>populate_indicators()</code></li>
+<li>调用 <code>populate_entry_trend()</code></li>
+<li>调用 <code>populate_exit_trend()</code></li>
+</ul>
+</li>
+<li>从交易所更新交易开放订单状态。<!-- -->
+<ul>
+<li>对已成交订单调用 <code>order_filled()</code> 策略回调。</li>
+<li>检查开放订单的超时。<!-- -->
+<ul>
+<li>对开放入场订单调用 <code>check_entry_timeout()</code> 策略回调。</li>
+<li>对开放退出订单调用 <code>check_exit_timeout()</code> 策略回调。</li>
+<li>对开放订单调用 <code>adjust_order_price()</code> 策略回调。<!-- -->
+<ul>
+<li>对开放入场订单调用 <code>adjust_entry_price()</code> 策略回调。<em>仅在未实现 <code>adjustorderprice()</code> 时调用</em></li>
+<li>对开放退出订单调用 <code>adjust_exit_price()</code> 策略回调。<em>仅在未实现 <code>adjustorderprice()</code> 时调用</em></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>验证现有仓位并最终下达退出订单。<!-- -->
+<ul>
+<li>考虑止损、ROI 和退出信号、<code>custom_exit()</code> 和 <code>custom_stoploss()</code>。</li>
+<li>根据 <code>exit_pricing</code> 配置设置或使用 <code>custom_exit_price()</code> 回调确定退出价格。</li>
+<li>在下达退出订单之前，调用 <code>confirm_trade_exit()</code> 策略回调。</li>
+</ul>
+</li>
+<li>如果启用，通过调用 <code>adjust_trade_position()</code> 检查开放交易的仓位调整，如果需要则下达额外订单。</li>
+<li>检查交易槽是否仍然可用（如果达到 <code>max_open_trades</code>）。</li>
+<li>验证入场信号尝试进入新仓位。<!-- -->
+<ul>
+<li>根据 <code>entry_pricing</code> 配置设置或使用 <code>custom_entry_price()</code> 回调确定入场价格。</li>
+<li>在保证金和期货模式下，调用 <code>leverage()</code> 策略回调以确定所需杠杆。</li>
+<li>通过调用 <code>custom_stake_amount()</code> 回调确定投注大小。</li>
+<li>在下达入场订单之前，调用 <code>confirm_trade_entry()</code> 策略回调。</li>
+</ul>
+</li>
+</ul>
+<p>此循环将一遍又一遍地重复，直到机器人停止。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="回测--超参数优化执行逻辑">回测 / 超参数优化执行逻辑<a href="#回测--超参数优化执行逻辑" class="hash-link" aria-label="Direct link to 回测 / 超参数优化执行逻辑" title="Direct link to 回测 / 超参数优化执行逻辑">​</a></h2>
+<p>回测或超参数优化只执行上述逻辑的一部分，因为大多数交易操作都是完全模拟的。</p>
+<ul>
+<li>为配置的交易对列表加载历史数据。</li>
+<li>调用一次 <code>bot_start()</code>。</li>
+<li>计算指标（每个交易对调用一次 <code>populate_indicators()</code>）。</li>
+<li>计算入场/退出信号（每个交易对调用一次 <code>populate_entry_trend()</code> 和 <code>populate_exit_trend()</code>）。</li>
+<li>按蜡烛图循环模拟入场和退出点。<!-- -->
+<ul>
+<li>调用 <code>bot_loop_start()</code> 策略回调。</li>
+<li>检查订单超时，通过 <code>unfilledtimeout</code> 配置，或通过 <code>check_entry_timeout()</code> / <code>check_exit_timeout()</code> 策略回调。</li>
+<li>对开放订单调用 <code>adjust_order_price()</code> 策略回调。<!-- -->
+<ul>
+<li>对开放入场订单调用 <code>adjust_entry_price()</code> 策略回调。<em>仅在未实现 <code>adjustorderprice()</code> 时调用！</em></li>
+<li>对开放退出订单调用 <code>adjust_exit_price()</code> 策略回调。<em>仅在未实现 <code>adjustorderprice()</code> 时调用！</em></li>
+</ul>
+</li>
+<li>检查交易入场信号（<code>enter_long</code> / <code>enter_short</code> 列）。</li>
+<li>确认交易入场/退出（如果在策略中实现，则调用 <code>confirm_trade_entry()</code> 和 <code>confirm_trade_exit()</code>）。</li>
+<li>调用 <code>custom_entry_price()</code>（如果在策略中实现）以确定入场价格（价格被移动到开盘蜡烛图内）。</li>
+<li>在保证金和期货模式下，调用 <code>leverage()</code> 策略回调以确定所需杠杆。</li>
+<li>通过调用 <code>custom_stake_amount()</code> 回调确定投注大小。</li>
+<li>如果启用，检查开放交易的仓位调整并调用 <code>adjust_trade_position()</code> 以确定是否请求额外订单。</li>
+<li>对已成交入场订单调用 <code>order_filled()</code> 策略回调。</li>
+<li>调用 <code>custom_stoploss()</code> 和 <code>custom_exit()</code> 以找到自定义退出点。</li>
+<li>对于基于退出信号、自定义退出和部分退出的退出：调用 <code>custom_exit_price()</code> 以确定退出价格（价格被移动到收盘蜡烛图内）。</li>
+<li>对已成交退出订单调用 <code>order_filled()</code> 策略回调。</li>
+</ul>
+</li>
+<li>生成回测报告输出</li>
+</ul>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>注意</div><div class="admonitionContent_BuS1"><p>回测和超参数优化都在计算中包含交易所默认费用。可以通过指定 <code>--fee</code> 参数将自定义费用传递给回测/超参数优化。</p></div></div>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>回调调用频率</div><div class="admonitionContent_BuS1"><p>回测将每个回调最多每根蜡烛图调用一次（<code>--timeframe-detail</code> 修改此行为为每根详细蜡烛图调用一次）。大多数回调在实盘中每次迭代都会被调用（通常每 ~5 秒） - 这可能导致回测不匹配。</p></div></div></div><footer class="theme-doc-footer docusaurus-mt-lg"><div class="row margin-top--sm theme-doc-footer-edit-meta-row"><div class="col"><a href="https://github.com/frank-quant/frank-quant/tree/main/docs/tools/freqtrade/04 freqtrade-basics.md" target="_blank" rel="noopener noreferrer" class="theme-edit-this-page"><svg fill="currentColor" height="20" width="20" viewBox="0 0 40 40" class="iconEdit_Z9Sw" aria-hidden="true"><g><path d="m34.5 11.7l-3 3.1-6.3-6.3 3.1-3q0.5-0.5 1.2-0.5t1.1 0.5l3.9 3.9q0.5 0.4 0.5 1.1t-0.5 1.2z m-29.5 17.1l18.4-18.5 6.3 6.3-18.4 18.4h-6.3v-6.2z"></path></g></svg>Edit this page</a></div><div class="col lastUpdated_JAkA"></div></div></footer></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Docs pages"><a class="pagination-nav__link pagination-nav__link--prev" href="/docs/tools/freqtrade/docker-quickstart"><div class="pagination-nav__sublabel">Previous</div><div class="pagination-nav__label">02 基于Docker快速开始</div></a><a class="pagination-nav__link pagination-nav__link--next" href="/docs/tools/freqtrade/configuration"><div class="pagination-nav__sublabel">Next</div><div class="pagination-nav__label">05 Configuration 配置</div></a></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#freqtrade-术语" class="table-of-contents__link toc-highlight">Freqtrade 术语</a></li><li><a href="#费用处理" class="table-of-contents__link toc-highlight">费用处理</a></li><li><a href="#交易对命名" class="table-of-contents__link toc-highlight">交易对命名</a><ul><li><a href="#现货交易对命名" class="table-of-contents__link toc-highlight">现货交易对命名</a></li><li><a href="#期货交易对命名" class="table-of-contents__link toc-highlight">期货交易对命名</a></li></ul></li><li><a href="#机器人执行逻辑" class="table-of-contents__link toc-highlight">机器人执行逻辑</a></li><li><a href="#回测--超参数优化执行逻辑" class="table-of-contents__link toc-highlight">回测 / 超参数优化执行逻辑</a></li></ul></div></div></div></div></main></div></div></div><footer class="theme-layout-footer footer footer--dark"><div class="container container-fluid"><div class="row footer__links"><div class="theme-layout-footer-column col footer__col"><div class="footer__title">内容导航</div><ul class="footer__items clean-list"><li class="footer__item"><a class="footer__link-item" href="/docs/ai/intro">AI相关</a></li><li class="footer__item"><a class="footer__link-item" href="/docs/basics/intro">基本概念</a></li><li class="footer__item"><a class="footer__link-item" href="/docs/tutorial/intro">入门教程</a></li><li class="footer__item"><a class="footer__link-item" href="/docs/strategy/intro">策略分享</a></li><li class="footer__item"><a class="footer__link-item" href="/docs/tools/intro">实用工具</a></li><li class="footer__item"><a class="footer__link-item" href="/docs/books/intro">量化图书馆</a></li><li class="footer__item"><a class="footer__link-item" href="/docs/live-trading/intro">实盘记录</a></li><li class="footer__item"><a class="footer__link-item" href="/blog">博客</a></li><li class="footer__item"><a class="footer__link-item" href="/docs/about/intro">关于</a></li></ul></div></div><div class="footer__bottom text--center"><div class="footer__copyright">Copyright © 2026 Frank Quant. Built with Docusaurus.</div></div></div></footer></div>
+</body>
+</html>

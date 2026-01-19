@@ -1,0 +1,1605 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://frank-quant.github.io/blog</id>
+    <title>Frank Quant Blog</title>
+    <updated>2025-12-30T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://frank-quant.github.io/blog"/>
+    <subtitle>Frank Quant Blog</subtitle>
+    <icon>https://frank-quant.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Meta收购Manus：18个月从0到数十亿美元，中国AI创业的新范式]]></title>
+        <id>https://frank-quant.github.io/blog/meta_acquires_manus</id>
+        <link href="https://frank-quant.github.io/blog/meta_acquires_manus"/>
+        <updated>2025-12-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大家好，我是frank。]]></summary>
+        <content type="html"><![CDATA[<p>大家好，我是frank。</p>
+<p>2025年12月30日，AI圈炸了锅。</p>
+<p>Meta宣布收购新加坡注册的AI初创公司Manus。虽然官方没披露具体金额，但Bloomberg、WSJ、Nikkei这些权威媒体都报道超过20亿美元（约140亿人民币），有些消息源说在20-30亿美元之间。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251230220006-09c05ad35788d75b38c54ddcf394d039.png" width="697" height="530" class="img_ev3q"></p>
+<p>这不仅是Meta今年在AI领域的又一次重磅出手，更是其历史上第三大收购，仅次于190亿美元拿下WhatsApp和对Scale AI的巨额投资。</p>
+<p>CEO肖弘（Xiao Hong）直接升任Meta副总裁。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251230220149-598132ad4a1a687ce84a3b70d2455368.png" width="1058" height="774" class="img_ev3q"></p>
+<p>说实话，看到这个消息的时候，我人有点懵。不是因为金额大（AI赛道烧钱本来就疯狂），而是因为<strong>速度太快了</strong>。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-18个月从0到被巨头收购">1. 18个月，从0到被巨头收购<a href="https://frank-quant.github.io/blog/meta_acquires_manus#1-18%E4%B8%AA%E6%9C%88%E4%BB%8E0%E5%88%B0%E8%A2%AB%E5%B7%A8%E5%A4%B4%E6%94%B6%E8%B4%AD" class="hash-link" aria-label="Direct link to 1. 18个月，从0到被巨头收购" title="Direct link to 1. 18个月，从0到被巨头收购">​</a></h3>
+<p>先看几个关键数字：</p>
+<ul>
+<li>Manus成立才18个月左右</li>
+<li>今年3月才正式发布产品</li>
+<li>8个月做到年化收入（ARR）超1亿美元</li>
+<li>总收入跑率超1.25亿美元</li>
+<li>已有百万付费用户</li>
+<li>然后，直接被Meta吃掉</li>
+</ul>
+<p>18个月啊！很多公司18个月可能还在打磨MVP，团队还在磨合期，这家公司已经exit了，而且exit价格20亿美元起。</p>
+<p>更夸张的是，这是扎克伯格亲自下场谈的。Meta今年在AI上动作不断，但专门花这么大代价收购一家才成立18个月的公司，还是头一回。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-manus到底做了什么凭什么值20亿美元">2. Manus到底做了什么？凭什么值20亿美元？<a href="https://frank-quant.github.io/blog/meta_acquires_manus#2-manus%E5%88%B0%E5%BA%95%E5%81%9A%E4%BA%86%E4%BB%80%E4%B9%88%E5%87%AD%E4%BB%80%E4%B9%88%E5%80%BC20%E4%BA%BF%E7%BE%8E%E5%85%83" class="hash-link" aria-label="Direct link to 2. Manus到底做了什么？凭什么值20亿美元？" title="Direct link to 2. Manus到底做了什么？凭什么值20亿美元？">​</a></h3>
+<p>Manus做的是全球首个通用AI Agent（智能体）。</p>
+<p>什么意思？不是那种只会聊天的ChatGPT，而是真正"能干活"的AI助手。</p>
+<p>它能自主执行复杂任务：</p>
+<ul>
+<li>市场研究和竞品分析</li>
+<li>数据分析和可视化</li>
+<li>行程规划和预订</li>
+</ul>
+<p>在GAIA基准测试上，Manus甚至超越了OpenAI的Deep Research。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251230221042-13c66a7581597b618d4007760051cbcb.png" width="1074" height="516" class="img_ev3q"></p>
+<p>更关键的是，<strong>用户愿意付费很强</strong>。8个月做到1亿美元ARR，证明了商业模式可行。</p>
+<p>这在AI圈里太稀缺了——多少公司用户量很大，但都是免费用户，根本不赚钱。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-从北京到新加坡这步棋太关键了">3. 从北京到新加坡，这步棋太关键了<a href="https://frank-quant.github.io/blog/meta_acquires_manus#3-%E4%BB%8E%E5%8C%97%E4%BA%AC%E5%88%B0%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%BF%99%E6%AD%A5%E6%A3%8B%E5%A4%AA%E5%85%B3%E9%94%AE%E4%BA%86" class="hash-link" aria-label="Direct link to 3. 从北京到新加坡，这步棋太关键了" title="Direct link to 3. 从北京到新加坡，这步棋太关键了">​</a></h3>
+<p>再来捋一下时间线：</p>
+<p>**2025年初：公司从北京迁到新加坡</p>
+<p>**几个月后：拿到Benchmark领投的7500万美元融资，估值5亿美元</p>
+<p>**2025年底：被Meta收购，估值20-30亿美元，翻了4-6倍</p>
+<p>当时迁到新加坡，很多人都不理解：好好的中国公司，为什么要"跑"？</p>
+<p>现在都知道了，这不是逃跑，而是<strong>出海战略布局</strong>。</p>
+<p>更深层的原因是<strong>合规</strong>。</p>
+<p>Meta在收购公告里明确强调：交易完成后，Manus将断绝所有中国所有权和业务运营，彻底"去中国化"。</p>
+<p>这在当前的地缘环境下，是美国巨头收购中国背景公司的硬性要求。注册地、运营主体、法律架构、数据存储，全都得符合美国监管的标准。</p>
+<p>新加坡这一步，把这些障碍全清掉了。</p>
+<p>硅谷的VC和巨头，从来不是不认可中国团队的技术能力，而是顾虑监管、数据主权、地缘政治。肖弘团队提前把这个问题解决了，才有后面的大额收购。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4-meta为什么急着买">4. Meta为什么急着买？<a href="https://frank-quant.github.io/blog/meta_acquires_manus#4-meta%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%A5%E7%9D%80%E4%B9%B0" class="hash-link" aria-label="Direct link to 4. Meta为什么急着买？" title="Direct link to 4. Meta为什么急着买？">​</a></h3>
+<p>Meta今年在AI上的动作，可以说是疯狂：</p>
+<ul>
+<li>开源Llama系列模型，直接对标OpenAI的GPT</li>
+<li>巨资投资Scale AI，确保数据标注能力</li>
+<li>招募Alexandr Wang（Scale AI的CEO）领导超级智能实验室</li>
+<li>在Facebook、Instagram、WhatsApp上全面整合AI功能</li>
+</ul>
+<p>但有个短板：在Agent（智能体）领域，Meta一直缺一个成熟的落地产品。</p>
+<p>他们有底层模型（Llama），有算力，有数据，有几十亿用户，但就是缺一个能"真正干活"的AI助手产品。</p>
+<p>Manus正好补齐了这块拼图：</p>
+<ol>
+<li><strong>产品已经成熟</strong>：不是概念验证，是真实在跑的商业产品</li>
+<li><strong>有付费用户</strong>：百万级付费用户，证明了市场需求</li>
+<li><strong>有真实收入</strong>：1亿+ARR，不是烧钱换增长</li>
+<li><strong>能快速整合</strong>：可以直接接入WhatsApp、Instagram、Facebook，服务几十亿用户</li>
+</ol>
+<p>扎克伯格一直在说要给每个人配一个"个人超级智能助手"。Manus就是这个愿景的商业化路径。</p>
+<p>X上，Alexandr Wang发文欢迎肖弘团队加入："Looking forward to working with you!"</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251230221303-40a119fef81bc6d54ed90153c6ed8b85.png" width="542" height="201" class="img_ev3q"></p>
+<p>创始人肖弘回应说，这是对自主AI能力的验证。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251230221324-2c3775eb5db89923570c35969bacc557.png" width="542" height="542" class="img_ev3q"></p>
+<p>这次收购，Meta买的不只是技术，更是<strong>时间</strong>。</p>
+<p>自己从0做一个Agent产品，至少要1-2年。直接买一个已经跑通商业模式的，几个月就能整合进自己的生态。</p>
+<p>对扎克伯格来说，这笔账太划算了。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="5-不是做大做强而是做对做快">5. 不是做大做强，而是做对做快<a href="https://frank-quant.github.io/blog/meta_acquires_manus#5-%E4%B8%8D%E6%98%AF%E5%81%9A%E5%A4%A7%E5%81%9A%E5%BC%BA%E8%80%8C%E6%98%AF%E5%81%9A%E5%AF%B9%E5%81%9A%E5%BF%AB" class="hash-link" aria-label="Direct link to 5. 不是做大做强，而是做对做快" title="Direct link to 5. 不是做大做强，而是做对做快">​</a></h3>
+<p>Manus给所有中国AI创业者上了一课：</p>
+<p><strong>你不需要在硅谷创业，也不需要死磕到上市。你只需要让自己"可被收购"。</strong></p>
+<p>这是一个很重要的思维转变。</p>
+<p>以前我们创业，想的是："怎么干翻Google、干翻Meta、干翻OpenAI。"</p>
+<p>现在可以换个思路："怎么做出让巨头愿意花几十亿美元买的东西。"</p>
+<p>巨头不是要打败你，巨头是要买你。</p>
+<p>Manus的路径很清晰：</p>
+<p>**做对：专注应用层Agent这种"能动手"的赛道，用户愿意付费</p>
+<p>**做快：18个月从0到1，快速跑出数据（百万用户、1亿ARR）</p>
+<p>**布局早：提前全球化、合规化，避免地缘障碍</p>
+<p>看看Manus的时间表：</p>
+<ul>
+<li>3月发布产品</li>
+<li>8个月跑到1亿ARR</li>
+<li>证明了产品市场fit</li>
+<li>证明了团队执行力</li>
+<li>然后，上岸</li>
+</ul>
+<p>不需要死磕到IPO，不需要烧钱烧到现金流转正。18个月，足够了。</p>
+<p><strong>快速做出产品，快速跑出数据，然后等着被收购。</strong></p>
+<p>这条路，Manus跑通了。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="6-多赢的局面创始人投资人买家都赚了">6. 多赢的局面：创始人、投资人、买家都赚了<a href="https://frank-quant.github.io/blog/meta_acquires_manus#6-%E5%A4%9A%E8%B5%A2%E7%9A%84%E5%B1%80%E9%9D%A2%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%8A%95%E8%B5%84%E4%BA%BA%E4%B9%B0%E5%AE%B6%E9%83%BD%E8%B5%9A%E4%BA%86" class="hash-link" aria-label="Direct link to 6. 多赢的局面：创始人、投资人、买家都赚了" title="Direct link to 6. 多赢的局面：创始人、投资人、买家都赚了">​</a></h3>
+<p>这次收购，各方都很满意。</p>
+<p><strong>对肖弘和团队来说：</strong></p>
+<ul>
+<li>肖弘升任Meta副总裁，进入全球顶级科技公司决策层</li>
+<li>团队继续独立运营，保持一定自主权</li>
+<li>产品能接入Meta几十亿用户，发展天花板拉高</li>
+<li>财务自由，不用再为融资和现金流发愁</li>
+<li>背后多了个万亿市值的爸爸，要资源有资源，要算力有算力</li>
+</ul>
+<p>这个结局，对创始人来说近乎完美。</p>
+<p><strong>对投资人来说：</strong></p>
+<p>Benchmark几个月赚4倍以上，这个回报率堪称教科书级别。其他跟投方也都赚麻了。</p>
+<p>真格基金的刘元在社交媒体上直呼："华人创业者全球化模板跑通了！"</p>
+<p>这一单，会成为VC圈的经典案例。以后所有投AI项目的VC，都会拿Manus对标。</p>
+<p><strong>对Meta来说：</strong></p>
+<p>用20-30亿美元，买到一个：</p>
+<ul>
+<li>已经跑通商业模式的成熟产品</li>
+<li>有百万付费用户和1亿ARR的现金流</li>
+<li>能快速整合进现有生态的Agent技术</li>
+<li>一个证明了执行力的优秀团队</li>
+</ul>
+<p>这笔账，怎么算都不亏。</p>
+<p>更重要的是，Meta买到了<strong>时间</strong>。在AI Agent这个赛道上，时间就是一切。早几个月推出产品，就能多占几个百分点的市场份额。</p>
+<p>多赢局面。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="7-中国ai创业者的黄金时代">7. 中国AI创业者的黄金时代<a href="https://frank-quant.github.io/blog/meta_acquires_manus#7-%E4%B8%AD%E5%9B%BDai%E5%88%9B%E4%B8%9A%E8%80%85%E7%9A%84%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3" class="hash-link" aria-label="Direct link to 7. 中国AI创业者的黄金时代" title="Direct link to 7. 中国AI创业者的黄金时代">​</a></h3>
+<p>说实话，现在是中国AI创业者最好的时候。</p>
+<p>不是因为国内环境有多好，而是因为<strong>全球对中国AI团队的认可度达到了历史最高点</strong>。</p>
+<p>DeepSeek验证了中国人在底层模型上的能力。
+Manus验证了中国人在应用层的实力。</p>
+<p>现在硅谷的AI公司，宣传片里要是没几个中国人面孔，反而显得不够硬核。有中国人，说明团队牛逼；没有中国人，显得不够强。</p>
+<p>这是过去十年，无数中国工程师用代码换来的全球声誉。</p>
+<p>而对于创业者来说，现在的选项变多了：</p>
+<p><strong>选项1：留在国内</strong></p>
+<ul>
+<li>服务国内市场</li>
+<li>拿国内VC的钱</li>
+<li>走中国特色路线</li>
+<li>可能上科创板或者港股</li>
+</ul>
+<p><strong>选项2：出海布局</strong></p>
+<ul>
+<li>迁到新加坡/美国</li>
+<li>拿国际VC的钱（Benchmark、a16z、红杉）</li>
+<li>对接全球市场</li>
+<li>等着被巨头收购</li>
+</ul>
+<p>两条路都能走通，看你想要什么。</p>
+<p>但Manus的案例告诉我们：<strong>第二条路的天花板更高，速度更快</strong>。</p>
+<p>18个月exit，创始人财务自由+升任Meta副总裁，投资人4倍回报。这个效率，在国内很难达到。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="8-我的几点观察和判断">8. 我的几点观察和判断<a href="https://frank-quant.github.io/blog/meta_acquires_manus#8-%E6%88%91%E7%9A%84%E5%87%A0%E7%82%B9%E8%A7%82%E5%AF%9F%E5%92%8C%E5%88%A4%E6%96%AD" class="hash-link" aria-label="Direct link to 8. 我的几点观察和判断" title="Direct link to 8. 我的几点观察和判断">​</a></h3>
+<p>这次收购，我看得比较乐观，但也有一些冷静的思考。</p>
+<p><strong>1. Agent是AI的下一个杀手级应用</strong></p>
+<p>从"会聊天"到"会行动"，这是质的飞跃。Manus证明了用户愿意为真实的生产力付费，不是那种尝鲜式的订阅。</p>
+<p>Meta注入资源后，几十亿用户很快就能用上自主AI助手。这个市场太大了。</p>
+<p><strong>2. 更多中国AI公司会被收购</strong></p>
+<p>我的判断是，这只是开始。接下来Google、Microsoft、Amazon、Apple都会出手。</p>
+<p>为什么？因为：</p>
+<ul>
+<li>巨头需要速度，自己做太慢，收购最快</li>
+<li>中国团队有优势，技术强、效率高、成本低、迭代快</li>
+<li>只要解决合规问题，就是完美收购标的</li>
+</ul>
+<p>我猜接下来会看到：</p>
+<ul>
+<li><strong>新加坡成为中国AI公司的"中转站"</strong></li>
+<li>顶级VC疯抢"中国背景+国际架构"项目</li>
+<li>创业者更关注"可被收购性"而不是"做大做强"</li>
+<li>收购金额越来越高</li>
+</ul>
+<p><strong>3. Meta的AI闭环基本成型</strong></p>
+<p>底层模型（Llama）+ 数据（Scale AI）+ 应用（Manus），再加上几十亿用户的分发渠道。这个闭环比OpenAI的封闭模式更有进攻性。</p>
+<p><strong>4. 行业洗牌在加速</strong></p>
+<p>小团队的窗口期在缩短。以前可能有2-3年打磨产品，现在只有12-18个月。要么快速跑出来，要么被碾压。</p>
+<p>但反过来说，优秀产品的收购溢价也更高了。做出真东西，巨头愿意花大价钱买。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="9-给中国ai创业者的实战建议">9. 给中国AI创业者的实战建议<a href="https://frank-quant.github.io/blog/meta_acquires_manus#9-%E7%BB%99%E4%B8%AD%E5%9B%BDai%E5%88%9B%E4%B8%9A%E8%80%85%E7%9A%84%E5%AE%9E%E6%88%98%E5%BB%BA%E8%AE%AE" class="hash-link" aria-label="Direct link to 9. 给中国AI创业者的实战建议" title="Direct link to 9. 给中国AI创业者的实战建议">​</a></h3>
+<p>如果你现在在做AI创业，或者想进入这个领域，Manus的案例给了几个非常实用的启示：</p>
+<p><strong>1. 不要闭门造车，速度是核心竞争力</strong></p>
+<p>产品要快速推向市场，快速验证。Manus从发布到1亿ARR只用了8个月。这个速度，才是让巨头愿意花20亿美元的原因。</p>
+<p>很多团队死磕技术完美，结果市场窗口关了。不如先上线一个80分的产品，快速迭代到95分。</p>
+<p><strong>2. 重视数据指标，这是你的估值基础</strong></p>
+<p>ARR、付费用户数、用户留存率、月增长率……这些硬指标会直接决定你的估值。</p>
+<p>巨头收购你，看的不是PPT，是真实的数字。Manus能拿到20亿美元，就是因为有1亿ARR和百万付费用户撑着。</p>
+<p><strong>3. 提前做国际化布局</strong></p>
+<p>不是说一定要迁到新加坡，但至少要让自己"可被收购"。</p>
+<p>法律结构（VIE还是直接持股）、数据存储（在哪个云服务商）、团队配置（核心技术人员的国籍），都要提前考虑。</p>
+<p>等到巨头要收购你了再去调整，可能就来不及了。</p>
+<p><strong>4. 找对VC，不只是要钱</strong></p>
+<p>Benchmark不只是给了7500万美元，还给了：</p>
+<ul>
+<li>背书（顶级VC投资，说明项目靠谱）</li>
+<li>资源（介绍客户、对接巨头）</li>
+<li>退出渠道（帮你找买家）</li>
+</ul>
+<p>顶级VC的价值，在关键时刻会体现出来。肖弘能这么快被Meta相中，Benchmark肯定做了不少穿针引线的工作。</p>
+<p><strong>5. 保持专注，不要贪大求全</strong></p>
+<p>18个月很短。不要想着做平台、做生态、做操作系统。</p>
+<p>做好一个点，做到极致，就够了。</p>
+<p>Manus就是专注做Agent，其他什么都不碰。这种专注，反而让它更有收购价值——边界清晰，容易整合。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="10-写在最后">10. 写在最后<a href="https://frank-quant.github.io/blog/meta_acquires_manus#10-%E5%86%99%E5%9C%A8%E6%9C%80%E5%90%8E" class="hash-link" aria-label="Direct link to 10. 写在最后" title="Direct link to 10. 写在最后">​</a></h3>
+<p>Manus的故事，可能会成为中国AI创业的一个新范式。</p>
+<p>不是每个人都要做字节、做阿里这种生态型巨头，也可以做Instagram、做WhatsApp这种精品应用，然后被巨头高价收购。</p>
+<p>快速验证，漂亮exit，财务自由，然后开始下一段旅程。</p>
+<p>这不是投机，这是聪明地选择战场。</p>
+<p><strong>这是属于中国AI工程师的黄金时代。过去十年用代码换来的全球声誉，正在变现。</strong></p>
+<p>恭喜肖弘，恭喜Manus团队，恭喜所有投资人。</p>
+<p>也期待更多中国AI创业者跑出来。</p>
+<p>Agent时代，才刚刚开始。</p>
+<hr>
+<p><em>你怎么看Meta收购Manus这件事？如果你也在做AI创业，会选择哪条路？欢迎评论区讨论。</em></p>
+<p><em>转载请注明出处：微信公众号"frank-quant"</em></p>]]></content>
+        <author>
+            <name>Frank Quant</name>
+            <uri>https://github.com/frank-quant</uri>
+        </author>
+        <category label="LLM应用" term="LLM应用"/>
+        <category label="AI创业" term="AI创业"/>
+        <category label="Meta" term="Meta"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年做量化交易，用不用AI差别很大]]></title>
+        <id>https://frank-quant.github.io/blog/quant_ai_difference_2025</id>
+        <link href="https://frank-quant.github.io/blog/quant_ai_difference_2025"/>
+        <updated>2025-12-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大家好，我是frank，专注Crypto+Quant+LLM的深度融合和行业进展。]]></summary>
+        <content type="html"><![CDATA[<p>大家好，我是frank，专注Crypto+Quant+LLM的深度融合和行业进展。</p>
+<p>今天想聊一个我在2025年观察到的有意思现象：同样都是做量化交易，有人赚得盆满钵满，有人却在各种"迷你危机"里翻车。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251229213259-aabbf30e5e7631a723d19e1c2ea6ecd4.png" width="744" height="675" class="img_ev3q"></p>
+<p>差别在哪？我认为最大的差别，就在于AI用得怎么样。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="12025年量化圈经历了什么">1、2025年量化圈经历了什么<a href="https://frank-quant.github.io/blog/quant_ai_difference_2025#12025%E5%B9%B4%E9%87%8F%E5%8C%96%E5%9C%88%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88" class="hash-link" aria-label="Direct link to 1、2025年量化圈经历了什么" title="Direct link to 1、2025年量化圈经历了什么">​</a></h3>
+<p>先说说背景。</p>
+<p>根据《金融时报》的一篇报道，2025年对量化交易机构来说是很魔幻的一年。</p>
+<p>全文详见<a href="https://www.ft.com/content/4300b622-42b2-4fbb-bfcf-016e1b112bf9" target="_blank" rel="noopener noreferrer"># Inside the ‘rolling thunder’ quant crises of 2025</a>（2025年量化投资雷暴滚滚的内幕）。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251229212349-921881c60f6cb3946aa1d9e43cb13bc4.png" width="1775" height="779" class="img_ev3q"></p>
+<p>Renaissance Technologies（RenTech）的两只公开基金RIEF和RIDA，10月份突然暴跌15%，然后11月又飙回来。要知道这可是管理超过200亿美元的顶级量化机构啊。</p>
+<p>但诡异的是，同期其他很多量化机构却风平浪静，甚至还赚了不少。</p>
+<p>金融时报把今年量化圈的这种状况形容为"rolling thunder"（雷暴滚滚）——不是一次大地震，而是一年到头各种小震动不断。</p>
+<p>关键是，这些震动对不同机构的影响差异巨大。</p>
+<p>从1月份DeepSeek引发的AI概念股震荡，到年中的"carry trade unwind"，再到秋天的波动率飙升，每次市场异动都会让一部分量化策略崩盘，而另一部分却毫发无损。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2ai正在重塑量化交易的底层逻辑">2、AI正在重塑量化交易的底层逻辑<a href="https://frank-quant.github.io/blog/quant_ai_difference_2025#2ai%E6%AD%A3%E5%9C%A8%E9%87%8D%E5%A1%91%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E7%9A%84%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91" class="hash-link" aria-label="Direct link to 2、AI正在重塑量化交易的底层逻辑" title="Direct link to 2、AI正在重塑量化交易的底层逻辑">​</a></h3>
+<p>为什么会出现这么大的分化？业内普遍认为有两个核心原因：<strong>AI应用的差异</strong>和<strong>策略拥挤度</strong>。</p>
+<p>咱们重点说说AI这块。</p>
+<p>传统量化交易大家玩的都是类似的东西：多因子模型、统计套利、趋势跟踪。策略逻辑相近，用的数据源也差不多，所以表现往往高度相关。市场一波动，大家一起赚或者一起亏。</p>
+<p>但AI的介入彻底改变了这个游戏规则。</p>
+<p><strong>不同机构在AI的应用深度和方式上差异巨大：</strong></p>
+<ul>
+<li>有的机构只是用机器学习优化一下选股因子</li>
+<li>有的用深度学习做特征工程和信号提取</li>
+<li>有的用NLP分析新闻、社交媒体情绪</li>
+<li>有的用强化学习做实时交易决策</li>
+<li>有的甚至用大语言模型重构整个研究框架</li>
+</ul>
+<p>这些差异看似微妙，但在实战中产生的结果可能天差地别。</p>
+<p>CFM的总裁Philippe Jordan说得很直白："同样的趋势跟踪策略，同样的统计套利逻辑，但因为AI应用方式不同，以前可能亏损相关性很高的两家机构，现在却可能一家大赚一家爆亏。"</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3从实际案例看ai如何拉开差距">3、从实际案例看AI如何拉开差距<a href="https://frank-quant.github.io/blog/quant_ai_difference_2025#3%E4%BB%8E%E5%AE%9E%E9%99%85%E6%A1%88%E4%BE%8B%E7%9C%8Bai%E5%A6%82%E4%BD%95%E6%8B%89%E5%BC%80%E5%B7%AE%E8%B7%9D" class="hash-link" aria-label="Direct link to 3、从实际案例看AI如何拉开差距" title="Direct link to 3、从实际案例看AI如何拉开差距">​</a></h3>
+<p>举几个具体的例子。</p>
+<p><strong>信号挖掘层面：</strong></p>
+<p>传统量化可能用几十个、上百个因子。但用上深度学习之后，特征空间可能扩展到几千甚至几万维。这不只是量的变化，而是质的飞跃。很多传统方法根本发现不了的非线性关系，AI能轻松捕捉。</p>
+<p><strong>风险管理层面：</strong></p>
+<p>2025年市场的特点是"定期的risk-on和risk-off切换"，传统的VaR模型在这种环境下经常失效。但用强化学习做动态仓位管理的机构，能更快适应市场regime的切换。</p>
+<p><strong>执行层面：</strong></p>
+<p>高频交易早就在用AI了，但现在连中频策略（持仓几天到几周）也开始大规模应用。AI可以更精准地判断最优执行时机，减少市场冲击成本。</p>
+<p>**最关键的是：用AI早和用AI晚，差别也很大。</p>
+<p>有些机构十几年前就开始用机器学习，积累了大量的实战经验、训练数据和调优诀窍。有些机构到2024-2025年才开始跟风上AI，技术积累差了一大截。</p>
+<p>不是说后来者一定做不好，但AI这东西确实有"复利效应"——你今天的模型输出是明天的训练数据，良性循环转起来之后，差距会越拉越大。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4拥挤交易ai带来的新问题">4、拥挤交易：AI带来的新问题<a href="https://frank-quant.github.io/blog/quant_ai_difference_2025#4%E6%8B%A5%E6%8C%A4%E4%BA%A4%E6%98%93ai%E5%B8%A6%E6%9D%A5%E7%9A%84%E6%96%B0%E9%97%AE%E9%A2%98" class="hash-link" aria-label="Direct link to 4、拥挤交易：AI带来的新问题" title="Direct link to 4、拥挤交易：AI带来的新问题">​</a></h3>
+<p>说完优势，也得聊聊问题。</p>
+<p>AI让量化策略变得更复杂、更个性化，但同时也带来了新的"拥挤风险"。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251229213150-38ad8ffc52becc21f736a8e34e4ab1aa.png" width="730" height="573" class="img_ev3q"></p>
+<p>这两年一些传统的高频交易公司（prop trading firms）开始进入"中频"领域，跟量化对冲基金争抢alpha。他们的算法响应速度更快，资金成本更低，对一些信号的decay速度产生了明显影响。</p>
+<p>你原来一个统计套利信号能用3-5天，现在可能24小时就被抹平了。如果你的AI没有及时学习到这种变化，就会被市场教育。</p>
+<p>Wolfe Research的数据显示，2025年他们追踪的16个主流量化因子里，有9个是亏钱的，而且波动率都明显高于往年。Value、short-term reversal、quality、low-vol这些经典因子今年表现都很差。</p>
+<p>这说明什么？市场微观结构正在发生深刻变化，而AI应用水平的高低，直接决定了你能不能适应这种变化。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="5加密量化交易的ai应用">5、加密量化交易的AI应用<a href="https://frank-quant.github.io/blog/quant_ai_difference_2025#5%E5%8A%A0%E5%AF%86%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E7%9A%84ai%E5%BA%94%E7%94%A8" class="hash-link" aria-label="Direct link to 5、加密量化交易的AI应用" title="Direct link to 5、加密量化交易的AI应用">​</a></h3>
+<p>说回到我们关注的加密领域。</p>
+<p>加密市场的量化交易相比传统市场，AI的重要性可能更大：</p>
+<p><strong>5.1 市场效率更低</strong></p>
+<p>传统股票市场已经被研究了上百年，alpha越来越难挖。但加密市场还很年轻，数据噪声大、异常情况多，正是AI发挥优势的地方。</p>
+<p><strong>5.2 数据维度更丰富</strong></p>
+<p>链上数据、社交媒体情绪、巨鲸地址追踪、DeFi协议交互... 这些非结构化数据传统方法很难处理，但AI能把它们整合起来。</p>
+<p><strong>5.3 市场变化更快</strong></p>
+<p>加密市场一天能经历传统市场一个月的波动。没有AI的实时学习和快速适应能力，很难在这种环境下生存。</p>
+<p>我之前写过Amber Group的案例，他们Q2收入环比暴涨2300%，很大程度上就是AI赋能的结果。他们不只是用AI做交易，还用AI优化整个业务流程——从客户风险评估到流动性管理，全方位应用。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="6给个人量化交易者的建议">6、给个人量化交易者的建议<a href="https://frank-quant.github.io/blog/quant_ai_difference_2025#6%E7%BB%99%E4%B8%AA%E4%BA%BA%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E8%80%85%E7%9A%84%E5%BB%BA%E8%AE%AE" class="hash-link" aria-label="Direct link to 6、给个人量化交易者的建议" title="Direct link to 6、给个人量化交易者的建议">​</a></h3>
+<p>如果你是个人开发者或者小团队，2025年的教训很明确：<strong>不掌握AI，量化交易这条路会越走越窄</strong>。</p>
+<p>但也别慌，并不是说你必须从零开始搭一套ChatGPT级别的大模型。实际上：</p>
+<p><strong>从简单的开始：</strong></p>
+<ul>
+<li>用XGBoost、LightGBM替代传统线性模型</li>
+<li>用LSTM处理时间序列，而不是简单的移动平均</li>
+<li>用sentiment analysis挖掘Twitter、Reddit的情绪信号</li>
+</ul>
+<p><strong>借助开源工具：</strong></p>
+<ul>
+<li>HuggingFace上有大量预训练模型可以直接fine-tune</li>
+<li>OpenAI、Claude的API可以用来做新闻解读、报表分析</li>
+<li>很多量化平台（如Quantopian、Alpaca）都集成了ML工具</li>
+</ul>
+<p><strong>重视数据积累：</strong></p>
+<ul>
+<li>AI的效果很大程度取决于数据质量</li>
+<li>多花时间清洗数据、构建特征，比盲目调参数更重要</li>
+<li>建立自己的数据pipeline，持续迭代</li>
+</ul>
+<p><strong>保持学习：</strong></p>
+<ul>
+<li>关注顶级机构的动向（像我这篇文章这样😄）</li>
+<li>跟踪arXiv上的最新论文</li>
+<li>参与开源社区，看看别人怎么用AI做量化</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="7写在最后">7、写在最后<a href="https://frank-quant.github.io/blog/quant_ai_difference_2025#7%E5%86%99%E5%9C%A8%E6%9C%80%E5%90%8E" class="hash-link" aria-label="Direct link to 7、写在最后" title="Direct link to 7、写在最后">​</a></h3>
+<p>2025年量化圈的"rolling thunder"给我们的最大启示是：<strong>AI已经不是锦上添花，而是必需品</strong>。</p>
+<p>用不用AI，用得好不好，直接决定了你在下一轮市场波动中是收割者还是被收割者。</p>
+<p>但话说回来，AI也不是万能的。市场理解、风险控制、执行纪律，这些基本功还是核心。AI只是让强者更强，但不会让弱者一夜翻身。</p>
+<p>2026年会怎样？我觉得这种趋势只会更明显。随着更多机构采用AI，没有AI加持的传统策略生存空间会越来越小。同时，AI之间的"军备竞赛"也会更激烈。</p>
+<p>所以，抓紧学起来吧。这不是建议，而是必修课。</p>
+<p>有问题欢迎评论区讨论。</p>
+<p><em>参考资料：Financial Times "Inside the 'rolling thunder' quant crises of 2025"</em></p>]]></content>
+        <author>
+            <name>Frank Quant</name>
+            <uri>https://github.com/frank-quant</uri>
+        </author>
+        <category label="市场分析" term="市场分析"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026对冲基金实习招聘全指南]]></title>
+        <id>https://frank-quant.github.io/blog/2026_quant</id>
+        <link href="https://frank-quant.github.io/blog/2026_quant"/>
+        <updated>2025-10-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近几年，投行大刀阔斧裁员、私募行业一波波退潮，让不少金融小白心塞不已。]]></summary>
+        <content type="html"><![CDATA[<p>最近几年，投行大刀阔斧裁员、私募行业一波波退潮，让不少金融小白心塞不已。</p>
+<p>但别慌！对冲基金正强势崛起，成为新一代金融大牛们的理想选择——高薪、弹性工时、自由。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251009205106-2a484d38d89c9579bfc2823cceba013b.png" width="900" height="636" class="img_ev3q"></p>
+<p>但别以为它就好进！和投行、私募一样，对冲基金的实习战场堪称“修罗场”：录取率低到爆表（Point72的0.6%比高盛还狠！）。</p>
+<p>这些基金体量小巧、岗位凤毛麟角，更爱从投行交易台（S&amp;T）或顶尖量化实验室“截胡”人才。</p>
+<p>从数据可以看出来，全球前九大对冲基金的总员工数，还赶不上一家中型投行！</p>
+<p>这就导致：<strong>实习名额稀缺如黄金，含金量直冲云霄</strong>。</p>
+<p>好消息是，一旦你本科或硕士阶段杀入这些基金实习，转正offer基本稳了——这是通往“金融塔尖”的直通车！</p>
+<p>下面，我们扒一扒当下火热的实习&amp;毕业生项目，速速收藏，机会不等人~</p>
+<p>[!-- TOC --]</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-量化对冲基金">1. 量化对冲基金<a href="https://frank-quant.github.io/blog/2026_quant#1-%E9%87%8F%E5%8C%96%E5%AF%B9%E5%86%B2%E5%9F%BA%E9%87%91" class="hash-link" aria-label="Direct link to 1. 量化对冲基金" title="Direct link to 1. 量化对冲基金">​</a></h3>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="11-aqr-capital-management">1.1 AQR Capital Management<a href="https://frank-quant.github.io/blog/2026_quant#11-aqr-capital-management" class="hash-link" aria-label="Direct link to 1.1 AQR Capital Management" title="Direct link to 1.1 AQR Capital Management">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：量化对冲基金。</li>
+<li><strong>公司简介</strong>：AQR Capital Management是一家成立于1998年的量化投资管理公司，总部位于康涅狄格州格林威治，专注于系统化投资策略，管理资产规模数百亿美元，员工超过1000人，强调数据驱动的投资决策。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：研究、风险管理、工程以及投资组合“实施”等核心职能，基于Quanta Academy内部培养体系。</li>
+<li><strong>待遇</strong>：10周暑期实习，提供学习机会和专业指导。</li>
+<li><strong>薪资</strong>：实习生平均年薪约$74,231（或$36/小时），针对2026年研究暑期分析师预计$64,000-$110,600。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年。</li>
+<li><strong>申请地址</strong>：<a href="https://careers.aqr.com/?size=n_5_n" target="_blank" rel="noopener noreferrer">https://careers.aqr.com/?size=n_5_n</a>
+<img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251009203345-dce271923b610274f280a2e669ee6f17.png" width="1237" height="852" class="img_ev3q"></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="12-aspect-capital">1.2 Aspect Capital<a href="https://frank-quant.github.io/blog/2026_quant#12-aspect-capital" class="hash-link" aria-label="Direct link to 1.2 Aspect Capital" title="Direct link to 1.2 Aspect Capital">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：量化对冲基金。</li>
+<li><strong>公司简介</strong>：Aspect Capital是一家伦敦-based的量化对冲基金，成立于1997年，专注于系统化交易策略，管理资产约80亿美元，员工约200人，以创新的量化模型闻名。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：研究、业务发展和工程等领域。</li>
+<li><strong>待遇</strong>：暑期实习，提供专业指导和团队协作机会。</li>
+<li><strong>薪资</strong>：实习生平均年薪约$99,550（或$48/小时），2025年数据，2026年预计类似。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：针对2026年，即将截止。</li>
+<li><strong>申请地址</strong>：<a href="https://www.aspectcapital.com/about/team/summer-internships-with-aspect-capital/" target="_blank" rel="noopener noreferrer">https://www.aspectcapital.com/about/team/summer-internships-with-aspect-capital/</a>
+<img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251009203528-d00caa6a51f2c00835b161f3b2fea217.png" width="1888" height="637" class="img_ev3q"></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="13-squarepoint-capital">1.3 Squarepoint Capital<a href="https://frank-quant.github.io/blog/2026_quant#13-squarepoint-capital" class="hash-link" aria-label="Direct link to 1.3 Squarepoint Capital" title="Direct link to 1.3 Squarepoint Capital">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：量化基金。</li>
+<li><strong>公司简介</strong>：Squarepoint Capital是一家全球量化投资公司，成立于2014年，总部纽约，管理资产超100亿美元，专注于算法交易和数据科学，员工超过1000人。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：毕业生项目包括交易台量化分析师、软件开发、支持专家；实习岗位集中在合规和软件开发。</li>
+<li><strong>待遇</strong>：提供免费餐饮、灵活实习日期。</li>
+<li><strong>薪资</strong>：软件工程师实习生$28.85/小时（或$7,367/月），合规分析师实习$60,000/年。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年。</li>
+<li><strong>申请地址</strong>：<a href="https://www.squarepoint-capital.com/open-opportunities?id=2546549" target="_blank" rel="noopener noreferrer">https://www.squarepoint-capital.com/open-opportunities?id=2546549</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="14-voloridge-investment-management">1.4 Voloridge Investment Management<a href="https://frank-quant.github.io/blog/2026_quant#14-voloridge-investment-management" class="hash-link" aria-label="Direct link to 1.4 Voloridge Investment Management" title="Direct link to 1.4 Voloridge Investment Management">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：量化基金。</li>
+<li><strong>公司简介</strong>：Voloridge Investment Management是一家佛罗里达州朱庇特的量化投资公司，成立于2006年，专注于高频交易和系统化策略，管理资产超50亿美元，员工约300人。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：软件工程、交易工程和量化开发。</li>
+<li><strong>待遇</strong>：提供住房和搬迁支持。</li>
+<li><strong>薪资</strong>：软件工程师实习生$120/小时，量化交易实习$40,000-$60,000。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年。</li>
+<li><strong>申请地址</strong>：<a href="https://voloridge-investment-management.hiringthing.com/" target="_blank" rel="noopener noreferrer">https://voloridge-investment-management.hiringthing.com/</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-多策略基金与宏观策略基金">2. 多策略基金与宏观策略基金<a href="https://frank-quant.github.io/blog/2026_quant#2-%E5%A4%9A%E7%AD%96%E7%95%A5%E5%9F%BA%E9%87%91%E4%B8%8E%E5%AE%8F%E8%A7%82%E7%AD%96%E7%95%A5%E5%9F%BA%E9%87%91" class="hash-link" aria-label="Direct link to 2. 多策略基金与宏观策略基金" title="Direct link to 2. 多策略基金与宏观策略基金">​</a></h3>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="21-balyasny-asset-management">2.1 Balyasny Asset Management<a href="https://frank-quant.github.io/blog/2026_quant#21-balyasny-asset-management" class="hash-link" aria-label="Direct link to 2.1 Balyasny Asset Management" title="Direct link to 2.1 Balyasny Asset Management">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：多策略基金。</li>
+<li><strong>公司简介</strong>：Balyasny Asset Management（BAM）是一家成立于2001年的多策略对冲基金，总部芝加哥，管理资产超200亿美元，全球办事处覆盖纽约、伦敦等，员工超2000人，专注于股权、宏观和量化策略。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：量化交易与研究、工程和政策策略。</li>
+<li><strong>待遇</strong>：全球实习机会，提供专业培训。</li>
+<li><strong>薪资</strong>：实习生平均$63,056，软件工程师实习$80.77/小时（或$14,000/月）。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年。</li>
+<li><strong>申请地址</strong>：<a href="https://bambusdev.my.site.com/s/" target="_blank" rel="noopener noreferrer">https://bambusdev.my.site.com/s/</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="22-bracebridge-capital">2.2 Bracebridge Capital<a href="https://frank-quant.github.io/blog/2026_quant#22-bracebridge-capital" class="hash-link" aria-label="Direct link to 2.2 Bracebridge Capital" title="Direct link to 2.2 Bracebridge Capital">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：为捐赠基金和基金会管理资产的基金。</li>
+<li><strong>公司简介</strong>：Bracebridge Capital是一家波士顿-based的投资管理公司，成立于1996年，专注于固定收益和信贷策略，管理资产约100亿美元，员工约150人。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：运营和交易实习。</li>
+<li><strong>待遇</strong>：暑期实习，提供投资分析机会。</li>
+<li><strong>薪资</strong>：实习生平均$69,934（或$34/小时），投资运营实习$16-$22/小时。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年。</li>
+<li><strong>申请地址</strong>：<a href="https://job-boards.greenhouse.io/bracebridgecapital" target="_blank" rel="noopener noreferrer">https://job-boards.greenhouse.io/bracebridgecapital</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="23-brevan-howard-asset-management">2.3 Brevan Howard Asset Management<a href="https://frank-quant.github.io/blog/2026_quant#23-brevan-howard-asset-management" class="hash-link" aria-label="Direct link to 2.3 Brevan Howard Asset Management" title="Direct link to 2.3 Brevan Howard Asset Management">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：多策略基金。</li>
+<li><strong>公司简介</strong>：Brevan Howard是一家全球领先的宏观对冲基金，成立于2002年，总部伦敦，管理资产超400亿美元，员工超800人，专注于宏观、系统化和风险投资策略。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：宏观、AI、量化、风险投资、交易和风险团队。</li>
+<li><strong>待遇</strong>：提供监管环境教育和团队嵌入。</li>
+<li><strong>薪资</strong>：实习生平均约$70,000-$90,000（基于类似职位），具体未公开。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年。</li>
+<li><strong>申请地址</strong>：<a href="https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers?jobFamilyGroup=4ab1b69da77b10010e18b74aba420000" target="_blank" rel="noopener noreferrer">https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers?jobFamilyGroup=4ab1b69da77b10010e18b74aba420000</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="24-bridgewater-associates">2.4 Bridgewater Associates<a href="https://frank-quant.github.io/blog/2026_quant#24-bridgewater-associates" class="hash-link" aria-label="Direct link to 2.4 Bridgewater Associates" title="Direct link to 2.4 Bridgewater Associates">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：多策略基金。</li>
+<li><strong>公司简介</strong>：Bridgewater Associates是全球最大对冲基金之一，成立于1975年，总部康涅狄格州威斯敏斯特，管理资产超1500亿美元，员工超1500人，以原则驱动的投资和文化闻名。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：投资助理实习生，可用薪酬“做空”公司仓位。</li>
+<li><strong>待遇</strong>：8周实习，包括住房和奖金。</li>
+<li><strong>薪资</strong>：总补偿$51,000（包括奖金和住房），软件工程师实习$81.25/小时。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年。</li>
+<li><strong>申请地址</strong>：<a href="https://job-boards.greenhouse.io/bridgewater89/jobs/7726966002" target="_blank" rel="noopener noreferrer">https://job-boards.greenhouse.io/bridgewater89/jobs/7726966002</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="25-capstone-investment-advisors">2.5 Capstone Investment Advisors<a href="https://frank-quant.github.io/blog/2026_quant#25-capstone-investment-advisors" class="hash-link" aria-label="Direct link to 2.5 Capstone Investment Advisors" title="Direct link to 2.5 Capstone Investment Advisors">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：多策略基金。</li>
+<li><strong>公司简介</strong>：Capstone Investment Advisors是一家纽约-based的多策略对冲基金，专注于商品和能源交易，管理资产约50亿美元，员工约200人。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：投资实习（分析师角色）和非投资实习。</li>
+<li><strong>待遇</strong>：提供专业网络机会。</li>
+<li><strong>薪资</strong>：实习生$32.99/小时（或$71,808/年）。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年。</li>
+<li><strong>申请地址</strong>：<a href="https://capstoneco.my.site.com/candidates/s/" target="_blank" rel="noopener noreferrer">https://capstoneco.my.site.com/candidates/s/</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="26-capula-investment-management">2.6 Capula Investment Management<a href="https://frank-quant.github.io/blog/2026_quant#26-capula-investment-management" class="hash-link" aria-label="Direct link to 2.6 Capula Investment Management" title="Direct link to 2.6 Capula Investment Management">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：多策略基金。</li>
+<li><strong>公司简介</strong>：Capula Investment Management是一家伦敦-based的全球对冲基金，成立于2006年，管理资产320亿美元，专注于宏观和相对价值策略，员工约300人。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：交易与研究暑期实习；金融学博士兼职实习（每周15-20小时）。</li>
+<li><strong>待遇</strong>：提供搬迁援助和住宿。</li>
+<li><strong>薪资</strong>：伦敦实习£48,000/年，纽约实习$4,830-$8,390/月。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年。</li>
+<li><strong>申请地址</strong>：<a href="https://www.capulaglobal.com/working-at-capula/careers/#job-openings" target="_blank" rel="noopener noreferrer">https://www.capulaglobal.com/working-at-capula/careers/#job-openings</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="27-citadel">2.7 Citadel<a href="https://frank-quant.github.io/blog/2026_quant#27-citadel" class="hash-link" aria-label="Direct link to 2.7 Citadel" title="Direct link to 2.7 Citadel">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：多策略基金。</li>
+<li><strong>公司简介</strong>：Citadel是一家全球投资管理公司，成立于1990年，总部迈阿密，管理资产超600亿美元，员工超2500人，涵盖多策略、量化交易和市场做市。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：量化研究、软件工程、投资与交易、运营。</li>
+<li><strong>待遇</strong>：11周付费实习，提供医疗保险。</li>
+<li><strong>薪资</strong>：软件工程师实习$120/小时，股权实习$2,500-$3,000/周。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年。</li>
+<li><strong>申请地址</strong>：<a href="https://www.citadel.com/careers/open-opportunities/?experience-filter=internships,new-graduates&amp;selected-job-sections=388,389,387,390&amp;current_page=1&amp;sort_order=DESC&amp;per_page=10&amp;action=careers_listing_filter" target="_blank" rel="noopener noreferrer">https://www.citadel.com/careers/open-opportunities/?experience-filter=internships,new-graduates&amp;selected-job-sections=388,389,387,390&amp;current_page=1&amp;sort_order=DESC&amp;per_page=10&amp;action=careers_listing_filter</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="28-de-shaw-group">2.8 D.E. Shaw Group<a href="https://frank-quant.github.io/blog/2026_quant#28-de-shaw-group" class="hash-link" aria-label="Direct link to 2.8 D.E. Shaw Group" title="Direct link to 2.8 D.E. Shaw Group">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：多策略基金。</li>
+<li><strong>公司简介</strong>：D.E. Shaw Group是一家成立于1988年的全球投资和科技发展公司，总部纽约，管理资产超600亿美元，员工超2000人，专注于计算驱动的投资策略。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：交易、投资者关系、量化策略、软件开发。</li>
+<li><strong>待遇</strong>：提供旅行覆盖、住房选择和加班费。</li>
+<li><strong>薪资</strong>：软件开发实习$22,000/月+ $20,000奖金，交易实习$18,000/月+ $10,000奖金。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年。</li>
+<li><strong>申请地址</strong>：<a href="https://www.deshaw.com/careers/choose-your-path" target="_blank" rel="noopener noreferrer">https://www.deshaw.com/careers/choose-your-path</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="29-dymon-asia-capital">2.9 Dymon Asia Capital<a href="https://frank-quant.github.io/blog/2026_quant#29-dymon-asia-capital" class="hash-link" aria-label="Direct link to 2.9 Dymon Asia Capital" title="Direct link to 2.9 Dymon Asia Capital">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：多策略基金。</li>
+<li><strong>公司简介</strong>：Dymon Asia Capital是一家新加坡-based的亚洲宏观对冲基金，成立于2011年，管理资产约20亿美元，专注于亚洲市场，员工约100人。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：亚洲宏观相关职能。</li>
+<li><strong>待遇</strong>：非结构化招聘，全年投递。</li>
+<li><strong>薪资</strong>：实习生约$2,704/年（新加坡数据），低薪但经验丰富。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，随时入职。</li>
+<li><strong>申请地址</strong>：<a href="https://www.dymonasia.com/career/" target="_blank" rel="noopener noreferrer">https://www.dymonasia.com/career/</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="210-lmr-partners">2.10 LMR Partners<a href="https://frank-quant.github.io/blog/2026_quant#210-lmr-partners" class="hash-link" aria-label="Direct link to 2.10 LMR Partners" title="Direct link to 2.10 LMR Partners">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：多策略基金。</li>
+<li><strong>公司简介</strong>：LMR Partners是一家伦敦-based的多策略对冲基金，成立于2016年，管理资产超100亿美元，专注于股权和宏观策略，员工约300人。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：独特机会，邮件申请。</li>
+<li><strong>待遇</strong>：提供培养机会。</li>
+<li><strong>薪资</strong>：软件工程师中位$109,489，实习具体未公开，预计$50,000-$70,000。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，随时。</li>
+<li><strong>申请地址</strong>：<a href="https://www.lmrpartners.com/careers" target="_blank" rel="noopener noreferrer">https://www.lmrpartners.com/careers</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="211-man-group">2.11 Man Group<a href="https://frank-quant.github.io/blog/2026_quant#211-man-group" class="hash-link" aria-label="Direct link to 2.11 Man Group" title="Direct link to 2.11 Man Group">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：多策略基金。</li>
+<li><strong>公司简介</strong>：Man Group是一家英国上市的投资管理公司，成立于1783年，总部伦敦，管理资产超1400亿美元，员工超1500人，涵盖量化、股票和替代策略。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：会计、交易、研究、技术、量化。</li>
+<li><strong>待遇</strong>：实习和毕业生计划，提供全球机会。</li>
+<li><strong>薪资</strong>：实习生平均约$50,000-$60,000，低于市场平均。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年。</li>
+<li><strong>申请地址</strong>：<a href="http://man.com/graduate-programmes#:~:text=Summer%20Internship%20Programme" target="_blank" rel="noopener noreferrer">http://man.com/graduate-programmes#:~<!-- -->:text<!-- -->=Summer%20Internship%20Programme</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="212-marshall-wace">2.12 Marshall Wace<a href="https://frank-quant.github.io/blog/2026_quant#212-marshall-wace" class="hash-link" aria-label="Direct link to 2.12 Marshall Wace" title="Direct link to 2.12 Marshall Wace">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：多策略基金。</li>
+<li><strong>公司简介</strong>：Marshall Wace是一家伦敦-based的股权对冲基金，成立于1997年，管理资产超700亿美元，员工超700人，专注于量化驱动的股权投资。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：技术实习；大学毕业生机会。</li>
+<li><strong>待遇</strong>：提供职业发展支持。</li>
+<li><strong>薪资</strong>：软件工程师实习$75/小时，技术实习$2,800-$3,000/周。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年。</li>
+<li><strong>申请地址</strong>：<a href="https://job-boards.greenhouse.io/mwinternshipprogram?gh_src=6df8b42e2us" target="_blank" rel="noopener noreferrer">https://job-boards.greenhouse.io/mwinternshipprogram?gh_src=6df8b42e2us</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="213-millennium-management">2.13 Millennium Management<a href="https://frank-quant.github.io/blog/2026_quant#213-millennium-management" class="hash-link" aria-label="Direct link to 2.13 Millennium Management" title="Direct link to 2.13 Millennium Management">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：多策略基金。</li>
+<li><strong>公司简介</strong>：Millennium Management是一家全球多策略投资公司，成立于1989年，总部纽约，管理资产超600亿美元，员工超5000人，涵盖多种资产类别。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：运营、AI、风险管理、资本市场、数据、量化。</li>
+<li><strong>待遇</strong>：全方位职能实习。</li>
+<li><strong>薪资</strong>：实习生$69,158，业务发展实习$85,000/年。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年。</li>
+<li><strong>申请地址</strong>：<a href="https://campusjobs.mlp.com/careers" target="_blank" rel="noopener noreferrer">https://campusjobs.mlp.com/careers</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="214-point72-asset-management">2.14 Point72 Asset Management<a href="https://frank-quant.github.io/blog/2026_quant#214-point72-asset-management" class="hash-link" aria-label="Direct link to 2.14 Point72 Asset Management" title="Direct link to 2.14 Point72 Asset Management">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：多策略基金。</li>
+<li><strong>公司简介</strong>：Point72 Asset Management是一家成立于2014年的多策略对冲基金，总部斯坦福德，管理资产超300亿美元，员工超2000人，由Steve Cohen创立，强调研究驱动投资。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：软件工程、量化研究、AI工程；Point72 Academy分析师培训。</li>
+<li><strong>待遇</strong>：全球实习，提供导师指导。</li>
+<li><strong>薪资</strong>：投资分析师$120,000-$140,000/年（按比例），财务实习$75,000/年。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年。</li>
+<li><strong>申请地址</strong>：<a href="https://careers.point72.com/?experience=early%20career;internships" target="_blank" rel="noopener noreferrer">https://careers.point72.com/?experience=early%20career;internships</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="215-rokos-capital-management">2.15 Rokos Capital Management<a href="https://frank-quant.github.io/blog/2026_quant#215-rokos-capital-management" class="hash-link" aria-label="Direct link to 2.15 Rokos Capital Management" title="Direct link to 2.15 Rokos Capital Management">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：多策略基金。</li>
+<li><strong>公司简介</strong>：Rokos Capital Management是一家成立于2015年的宏观对冲基金，总部伦敦，管理资产超100亿美元，由前Brevan Howard合伙人创立，员工约200人。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：技术、量化、交易运营、风险、资金管理、策略。</li>
+<li><strong>待遇</strong>：轮岗程序，提供跨团队机会。</li>
+<li><strong>薪资</strong>：实习具体未公开，预计$60,000-$80,000，基于初级交易员$148K-$268K。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年。</li>
+<li><strong>申请地址</strong>：<a href="https://apptrkr.io/rokos-capital-management/rokos-capital-management-202526" target="_blank" rel="noopener noreferrer">https://apptrkr.io/rokos-capital-management/rokos-capital-management-202526</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="216-schonfeld">2.16 Schonfeld<a href="https://frank-quant.github.io/blog/2026_quant#216-schonfeld" class="hash-link" aria-label="Direct link to 2.16 Schonfeld" title="Direct link to 2.16 Schonfeld">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：多策略基金。</li>
+<li><strong>公司简介</strong>：Schonfeld是一家成立于1988年的多策略对冲基金，总部纽约，管理资产超150亿美元，员工超800人，专注于量化、基本面和系统化策略。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：量化、软件工程、合规。</li>
+<li><strong>待遇</strong>：暑期实习，提供技能提升。</li>
+<li><strong>薪资</strong>：软件工程实习$125,000-$155,000/年（按比例），平均$85,999。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年。</li>
+<li><strong>申请地址</strong>：<a href="https://www.schonfeld.com/careers/open-positions?page=1&amp;department=Internship" target="_blank" rel="noopener noreferrer">https://www.schonfeld.com/careers/open-positions?page=1&amp;department=Internship</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="217-sculptor-capital-management">2.17 Sculptor Capital Management<a href="https://frank-quant.github.io/blog/2026_quant#217-sculptor-capital-management" class="hash-link" aria-label="Direct link to 2.17 Sculptor Capital Management" title="Direct link to 2.17 Sculptor Capital Management">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：多策略基金。</li>
+<li><strong>公司简介</strong>：Sculptor Capital Management（前Avenue Capital）是一家全球另类投资公司，成立于1997年，总部纽约，管理资产超300亿美元，员工超400人，专注于信贷和房地产。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：投资、全球基础设施、客户伙伴团队（10周实习）。</li>
+<li><strong>待遇</strong>：提供网络和技能基础。</li>
+<li><strong>薪资</strong>：实习生平均$63,218。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：明年一月开放申请。</li>
+<li><strong>申请地址</strong>：<a href="https://sculptor.wd12.myworkdayjobs.com/Sculptor_External_Career_Site" target="_blank" rel="noopener noreferrer">https://sculptor.wd12.myworkdayjobs.com/Sculptor_External_Career_Site</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="218-sona-asset-management">2.18 Sona Asset Management<a href="https://frank-quant.github.io/blog/2026_quant#218-sona-asset-management" class="hash-link" aria-label="Direct link to 2.18 Sona Asset Management" title="Direct link to 2.18 Sona Asset Management">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：多策略基金。</li>
+<li><strong>公司简介</strong>：Sona Asset Management是一家新兴多策略对冲基金，专注于信贷策略，总部纽约，管理资产约50亿美元，员工约100人，采用非结构化招聘。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：信贷相关职能。</li>
+<li><strong>待遇</strong>：非结构化，提供实习培养。</li>
+<li><strong>薪资</strong>：平均$93,349-$120,598，实习具体未公开。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：不确定。</li>
+<li><strong>申请地址</strong>：<a href="https://sona-am.com/contact/" target="_blank" rel="noopener noreferrer">https://sona-am.com/contact/</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="219-tudor-group">2.19 Tudor Group<a href="https://frank-quant.github.io/blog/2026_quant#219-tudor-group" class="hash-link" aria-label="Direct link to 2.19 Tudor Group" title="Direct link to 2.19 Tudor Group">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：多策略基金。</li>
+<li><strong>公司简介</strong>：Tudor Investment Corporation（Tudor Group）是一家成立于1980年的全球投资公司，总部康涅狄格州，管理资产超100亿美元，由Paul Tudor Jones创立，员工约300人，涵盖宏观和量化策略。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：量化开发人员实习。</li>
+<li><strong>待遇</strong>：提供研究和交易机会。</li>
+<li><strong>薪资</strong>：暑期实习$38.81/小时，量化开发$15,000-$18,000/月。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年。</li>
+<li><strong>申请地址</strong>：<a href="https://job-boards.greenhouse.io/tudorgroup" target="_blank" rel="noopener noreferrer">https://job-boards.greenhouse.io/tudorgroup</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="220-two-sigma">2.20 Two Sigma<a href="https://frank-quant.github.io/blog/2026_quant#220-two-sigma" class="hash-link" aria-label="Direct link to 2.20 Two Sigma" title="Direct link to 2.20 Two Sigma">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：多策略基金。</li>
+<li><strong>公司简介</strong>：Two Sigma是一家科技驱动的投资公司，成立于2001年，总部纽约，管理资产超600亿美元，员工超2000人，专注于数据科学和量化投资。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：量化研究和软件工程（纽约一个量化职位）。</li>
+<li><strong>待遇</strong>：创意环境，提供创新挑战。</li>
+<li><strong>薪资</strong>：软件工程师实习$95/小时，量化研究员$254,800-$286,000/年（按比例）。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年。</li>
+<li><strong>申请地址</strong>：<a href="https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&amp;5081_format=3146&amp;listFilterMode=1&amp;jobRecordsPerPage=10&amp;" target="_blank" rel="noopener noreferrer">https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&amp;5081_format=3146&amp;listFilterMode=1&amp;jobRecordsPerPage=10&amp;</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="221-verition-fund-management">2.21 Verition Fund Management<a href="https://frank-quant.github.io/blog/2026_quant#221-verition-fund-management" class="hash-link" aria-label="Direct link to 2.21 Verition Fund Management" title="Direct link to 2.21 Verition Fund Management">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：多策略基金。</li>
+<li><strong>公司简介</strong>：Verition Fund Management是一家成立于2008年的多经理对冲基金，总部纽约，管理资产超100亿美元，员工超400人，专注于多策略投资。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：10周实习，嵌入投资团队。</li>
+<li><strong>待遇</strong>：技能提升和团队协作。</li>
+<li><strong>薪资</strong>：软件工程师实习$80/小时，新毕业生$182k-$243k（实习按比例）。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年。</li>
+<li><strong>申请地址</strong>：<a href="https://www.verition.com/open-positions" target="_blank" rel="noopener noreferrer">https://www.verition.com/open-positions</a></li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-国内对冲基金">3. 国内对冲基金<a href="https://frank-quant.github.io/blog/2026_quant#3-%E5%9B%BD%E5%86%85%E5%AF%B9%E5%86%B2%E5%9F%BA%E9%87%91" class="hash-link" aria-label="Direct link to 3. 国内对冲基金" title="Direct link to 3. 国内对冲基金">​</a></h3>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="31-宁波幻方量化-high-flyer-quant">3.1 宁波幻方量化 (High-Flyer Quant)<a href="https://frank-quant.github.io/blog/2026_quant#31-%E5%AE%81%E6%B3%A2%E5%B9%BB%E6%96%B9%E9%87%8F%E5%8C%96-high-flyer-quant" class="hash-link" aria-label="Direct link to 3.1 宁波幻方量化 (High-Flyer Quant)" title="Direct link to 3.1 宁波幻方量化 (High-Flyer Quant)">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：量化私募基金，专注股票多因子策略。</li>
+<li><strong>公司简介</strong>：成立于2015年，总部宁波，管理规模超百亿，是国内领先的量化投资公司，以AI驱动的投资策略闻名，员工超500人。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：行研实习生、深度学习科学家/工程师、数据开发工程师、开发工程师(C++)。</li>
+<li><strong>待遇</strong>：提供专业指导、团队协作机会，优秀实习生可转正。</li>
+<li><strong>薪资</strong>：实习生约500-1000元/天，预计基于类似岗位。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年。</li>
+<li><strong>申请地址</strong>：<a href="https://www.high-flyer.cn/join/" target="_blank" rel="noopener noreferrer">https://www.high-flyer.cn/join/</a>
+<img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251009205157-6891497da2f9a43cd6c5116442f48110.png" width="1164" height="839" class="img_ev3q"></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="32-龙旗科技-longflag-investment">3.2 龙旗科技 (Longflag Investment)<a href="https://frank-quant.github.io/blog/2026_quant#32-%E9%BE%99%E6%97%97%E7%A7%91%E6%8A%80-longflag-investment" class="hash-link" aria-label="Direct link to 3.2 龙旗科技 (Longflag Investment)" title="Direct link to 3.2 龙旗科技 (Longflag Investment)">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：量化基金，专注高频交易和系统化策略。</li>
+<li><strong>公司简介</strong>：成立于2009年，总部上海，管理规模超百亿，员工约300人，以算法交易和数据科学为核心。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：量化开发工程师、软件工程师、测试工程师（量化方向）。</li>
+<li><strong>待遇</strong>：提供住房支持、导师指导，实习可转全职。</li>
+<li><strong>薪资</strong>：实习生约800-1500元/天，毕业生项目年薪25-50k。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年秋招。</li>
+<li><strong>申请地址</strong>：<a href="http://campus.51job.com/LONGCHEER/job.html" target="_blank" rel="noopener noreferrer">http://campus.51job.com/LONGCHEER/job.html</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="33-聚宽投资-joinquant">3.3 聚宽投资 (JoinQuant)<a href="https://frank-quant.github.io/blog/2026_quant#33-%E8%81%9A%E5%AE%BD%E6%8A%95%E8%B5%84-joinquant" class="hash-link" aria-label="Direct link to 3.3 聚宽投资 (JoinQuant)" title="Direct link to 3.3 聚宽投资 (JoinQuant)">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：量化私募基金，专注股票与期货策略。</li>
+<li><strong>公司简介</strong>：成立于2014年，总部北京，管理规模超百亿，提供量化平台服务，员工超400人。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：AI算法实习生、量化策略实习生、AI量化开发实习生、量化开发实习生。</li>
+<li><strong>待遇</strong>：一对一导师、项目实战，优秀者转正机会高。</li>
+<li><strong>薪资</strong>：部分岗位1000-2000元/天。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年暑期实习。</li>
+<li><strong>申请地址</strong>：<a href="https://www.nowcoder.com/feed/main/detail/90bdd55ff22a484ca89aa6ec115d8901" target="_blank" rel="noopener noreferrer">https://www.nowcoder.com/feed/main/detail/90bdd55ff22a484ca89aa6ec115d8901</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="34-九坤投资-jiukun-investment">3.4 九坤投资 (Jiukun Investment)<a href="https://frank-quant.github.io/blog/2026_quant#34-%E4%B9%9D%E5%9D%A4%E6%8A%95%E8%B5%84-jiukun-investment" class="hash-link" aria-label="Direct link to 3.4 九坤投资 (Jiukun Investment)" title="Direct link to 3.4 九坤投资 (Jiukun Investment)">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：量化基金，多策略覆盖股票与宏观。</li>
+<li><strong>公司简介</strong>：成立于2015年，总部北京，管理规模超百亿，员工约300人，以科技驱动的投资平台著称。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：全栈开发实习生、高性能计算实习生、Quant Developer实习生、量化实现实习生、数据科学实习生、AI算法实习生。</li>
+<li><strong>待遇</strong>：计算资源支持、专人指导，实习表现优秀可转正。</li>
+<li><strong>薪资</strong>：实习生30-60k·16薪（按比例），约800-1500元/天。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年。</li>
+<li><strong>申请地址</strong>：<a href="https://www.wjx.cn/vm/mObzJHr.aspx" target="_blank" rel="noopener noreferrer">https://www.wjx.cn/vm/mObzJHr.aspx</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="35-蒙玺投资-mengxi-investment">3.5 蒙玺投资 (Mengxi Investment)<a href="https://frank-quant.github.io/blog/2026_quant#35-%E8%92%99%E7%8E%BA%E6%8A%95%E8%B5%84-mengxi-investment" class="hash-link" aria-label="Direct link to 3.5 蒙玺投资 (Mengxi Investment)" title="Direct link to 3.5 蒙玺投资 (Mengxi Investment)">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：量化私募基金，专注低延迟交易策略。</li>
+<li><strong>公司简介</strong>：成立于2017年，总部上海，管理规模超百亿，稳居国内低延迟赛道第一梯队，员工约200人。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：量化研究员、量化开发工程师、AI算法研究员。</li>
+<li><strong>待遇</strong>：创新环境、策略储备支持，实习嵌入团队。</li>
+<li><strong>薪资</strong>：实习生约600-1200元/天，毕业生年薪30-50k。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年校园招聘。</li>
+<li><strong>申请地址</strong>：<a href="https://www.mxifund.com/career" target="_blank" rel="noopener noreferrer">https://www.mxifund.com/career</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="36-黑翼资产-black-wing-asset">3.6 黑翼资产 (Black Wing Asset)<a href="https://frank-quant.github.io/blog/2026_quant#36-%E9%BB%91%E7%BF%BC%E8%B5%84%E4%BA%A7-black-wing-asset" class="hash-link" aria-label="Direct link to 3.6 黑翼资产 (Black Wing Asset)" title="Direct link to 3.6 黑翼资产 (Black Wing Asset)">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：量化基金，专注CTA与股票量化。</li>
+<li><strong>公司简介</strong>：成立于2019年，总部上海，管理规模超百亿，员工约150人，以数据挖掘和策略研究为核心。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：投研实习生、量化研究实习生、行政实习生（可转正）。</li>
+<li><strong>待遇</strong>：基金经理指导、团建活动，优秀实习转正。</li>
+<li><strong>薪资</strong>：500-550元/天。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年暑期实习。</li>
+<li><strong>申请地址</strong>：<a href="https://blackwingasset.com/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=23" target="_blank" rel="noopener noreferrer">https://blackwingasset.com/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=23</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="37-灵均投资-lingjun-investment">3.7 灵均投资 (Lingjun Investment)<a href="https://frank-quant.github.io/blog/2026_quant#37-%E7%81%B5%E5%9D%87%E6%8A%95%E8%B5%84-lingjun-investment" class="hash-link" aria-label="Direct link to 3.7 灵均投资 (Lingjun Investment)" title="Direct link to 3.7 灵均投资 (Lingjun Investment)">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：量化私募基金，专注因子研究与股票策略。</li>
+<li><strong>公司简介</strong>：成立于2015年，总部上海，管理规模超百亿，员工约250人，提供平台赋能与资源共享。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：量化研究实习生（因子研究方向）、Python后端开发工程师实习、C++开发工程师实习。</li>
+<li><strong>待遇</strong>：员工基金奖励、高端医疗，实习每周3-5天。</li>
+<li><strong>薪资</strong>：实习生约500-1000元/天，毕业生50-70k·18薪。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年春季实习。</li>
+<li><strong>申请地址</strong>：<a href="https://www.lingjuninvest.com/jiaruwomen" target="_blank" rel="noopener noreferrer">https://www.lingjuninvest.com/jiaruwomen</a></li>
+</ul>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="38-天演资本-tianyuan-capital">3.8 天演资本 (Tianyuan Capital)<a href="https://frank-quant.github.io/blog/2026_quant#38-%E5%A4%A9%E6%BC%94%E8%B5%84%E6%9C%AC-tianyuan-capital" class="hash-link" aria-label="Direct link to 3.8 天演资本 (Tianyuan Capital)" title="Direct link to 3.8 天演资本 (Tianyuan Capital)">​</a></h4>
+<ul>
+<li><strong>基金性质</strong>：量化基金，多策略包括股票与期货。</li>
+<li><strong>公司简介</strong>：成立于2016年，总部上海，管理规模超百亿，员工约200人，以进化算法和AI策略创新闻名。</li>
+<li><strong>招聘详情</strong>：<!-- -->
+<ul>
+<li><strong>岗位</strong>：基金运营实习生、量化研究员、策略开发实习生。</li>
+<li><strong>待遇</strong>：留用机会高、数理基础培训。</li>
+<li><strong>薪资</strong>：实习生约600-1200元/天。</li>
+</ul>
+</li>
+<li><strong>申请时间</strong>：现已开放申请，针对2026年应届毕业生。</li>
+<li><strong>申请地址</strong>：<a href="https://www.shushuqiuzhi.com/article/91112" target="_blank" rel="noopener noreferrer">https://www.shushuqiuzhi.com/article/91112</a></li>
+</ul>]]></content>
+        <author>
+            <name>Frank Quant</name>
+            <uri>https://github.com/frank-quant</uri>
+        </author>
+        <category label="技术分享" term="技术分享"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[量化刷题网站推荐+资料赠送]]></title>
+        <id>https://frank-quant.github.io/blog/some_books</id>
+        <link href="https://frank-quant.github.io/blog/some_books"/>
+        <updated>2025-10-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今天聊聊量化面试。]]></summary>
+        <content type="html"><![CDATA[<p>今天聊聊<strong>量化面试</strong>。</p>
+<p>如果你是量化交易爱好者，正在为Citadel、Jane Street、DE Shaw这些顶级对冲基金的Offer拼尽全力，那这篇文章绝对是你的“备考秘籍”。</p>
+<p>下面我分享的这些宝藏资源，能让你从“零基础慌张”变成“游刃有余”。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="第一步刷题为主针对性攻克弱点">第一步：刷题为主，针对性攻克弱点<a href="https://frank-quant.github.io/blog/some_books#%E7%AC%AC%E4%B8%80%E6%AD%A5%E5%88%B7%E9%A2%98%E4%B8%BA%E4%B8%BB%E9%92%88%E5%AF%B9%E6%80%A7%E6%94%BB%E5%85%8B%E5%BC%B1%E7%82%B9" class="hash-link" aria-label="Direct link to 第一步：刷题为主，针对性攻克弱点" title="Direct link to 第一步：刷题为主，针对性攻克弱点">​</a></h3>
+<p>面试的核心是<strong>刷题</strong>。顶级公司不会问你书本上的标准题，而是那些需要灵活思维的“原创”问题。</p>
+<p>在这里介绍两个网站，是专门为量化求职者量身定制的，收录了海量真实面试题，还附带详细解析。</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="1-coachquant顶级公司真题库还能模拟面试">1. Coachquant：顶级公司真题库，还能模拟面试<a href="https://frank-quant.github.io/blog/some_books#1-coachquant%E9%A1%B6%E7%BA%A7%E5%85%AC%E5%8F%B8%E7%9C%9F%E9%A2%98%E5%BA%93%E8%BF%98%E8%83%BD%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95" class="hash-link" aria-label="Direct link to 1. Coachquant：顶级公司真题库，还能模拟面试" title="Direct link to 1. Coachquant：顶级公司真题库，还能模拟面试">​</a></h4>
+<p>如果你正纠结“去哪找靠谱的Quant面试题”，那<strong>Coachquant</strong>绝对是最佳选择。</p>
+<p>网址  <a href="https://www.coachquant.com/" target="_blank" rel="noopener noreferrer">https://www.coachquant.com/</a></p>
+<p>这个网站完全是为准备求职Quant的同学亲手打造的，上面汇集了Citadel、Jane Street、Optiver、Akuna Capital等顶级公司的往年真实面试题。</p>
+<p>在这里能看到每家公司的几十上百道题，覆盖概率、Brainteaser、数学推理、逻辑推理等全模块。每道题后都有<strong>detailed explanation</strong>，让你不只知道答案，还懂背后的思路。</p>
+<p>建议每天刷10-20道，坚持一个月，面试时绝对稳如老狗。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251015202748-963be4708028fd34a9b4541e6c995c9d.png" width="1920" height="911" class="img_ev3q"></p>
+<p>另外，这里还有Alex面试助手，可以模拟面试，融合了100+位优秀面试者的经验。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251015202934-7f87dc4017146dded7a450eff0b5293b.png" width="1023" height="834" class="img_ev3q"></p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="2-quantquestion1200精选题ai辅助">2. QuantQuestion：1200+精选题+AI辅助<a href="https://frank-quant.github.io/blog/some_books#2-quantquestion1200%E7%B2%BE%E9%80%89%E9%A2%98ai%E8%BE%85%E5%8A%A9" class="hash-link" aria-label="Direct link to 2. QuantQuestion：1200+精选题+AI辅助" title="Direct link to 2. QuantQuestion：1200+精选题+AI辅助">​</a></h4>
+<p><strong>QuantQuestion</strong>，整合了DE Shaw、IMC、Point72等公司的超1200道精选量化面试题目，每题都有详细解答。</p>
+<p>网址  <a href="https://www.quantquestion.com/zh" target="_blank" rel="noopener noreferrer">https://www.quantquestion.com/zh</a></p>
+<p>这个网站有中文版，非常方便使用。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251015203329-161ecb57b07d9cb276170d3b63295c09.png" width="1920" height="911" class="img_ev3q"></p>
+<p>同样，这里不止有答案，还有多角度解题思路、代码优化建议。</p>
+<p>更牛的是，它内置<strong>Quant AI智能辅助</strong>，能根据你的进度给出个性化推荐，让备考更高效、省力。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251015203539-ede8fd5f6411e47a6f11ca0155e0e4ba.png" width="1228" height="710" class="img_ev3q"></p>
+<p>遇到卡壳的题，直接问AI，它会一步步拆解。想象一下，刷题不再是机械重复，而是像有导师一对一指导。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251015203606-f8f99ca3035d24ccf71e1e053a609bfe.png" width="1246" height="264" class="img_ev3q"></p>
+<p>这两个网站可以互补使用：Coachquant重真题覆盖，QuantQuestion重深度解析。</p>
+<p>记住，刷题不是死记硬背，而是<strong>复盘+优化</strong>。每刷完一轮，总结笔记，模拟面试口述解答。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="第二步每日资讯拓宽视野入门量化">第二步：每日资讯，拓宽视野+入门量化<a href="https://frank-quant.github.io/blog/some_books#%E7%AC%AC%E4%BA%8C%E6%AD%A5%E6%AF%8F%E6%97%A5%E8%B5%84%E8%AE%AF%E6%8B%93%E5%AE%BD%E8%A7%86%E9%87%8E%E5%85%A5%E9%97%A8%E9%87%8F%E5%8C%96" class="hash-link" aria-label="Direct link to 第二步：每日资讯，拓宽视野+入门量化" title="Direct link to 第二步：每日资讯，拓宽视野+入门量化">​</a></h3>
+<p>刷题之外，别忽略<strong>持续学习</strong>。</p>
+<p>量化世界日新月异，变化太快了，一定要及时关注世界在发生什么。</p>
+<p>这时，<strong>Quantocracy</strong>就派上用场了。</p>
+<p><strong>Quantocracy</strong>是一个专注量化和金融领域的博客聚合网站，每日更新，汇总全网的quantitative trade优质文章。</p>
+<p>超级适合新手入门！从基础的期权定价到高级的算法交易策略，应有尽有。每天花10分钟浏览，就能跟上行业热点，避免面试时被问“最近读了什么Quant论文”时一脸懵。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251015204040-602f98cccfe265a0ae1c8b3bd813aa87.png" width="1216" height="887" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="第三步打牢基础三本圣经书缺一不可">第三步：打牢基础，三本圣经书缺一不可<a href="https://frank-quant.github.io/blog/some_books#%E7%AC%AC%E4%B8%89%E6%AD%A5%E6%89%93%E7%89%A2%E5%9F%BA%E7%A1%80%E4%B8%89%E6%9C%AC%E5%9C%A3%E7%BB%8F%E4%B9%A6%E7%BC%BA%E4%B8%80%E4%B8%8D%E5%8F%AF" class="hash-link" aria-label="Direct link to 第三步：打牢基础，三本圣经书缺一不可" title="Direct link to 第三步：打牢基础，三本圣经书缺一不可">​</a></h3>
+<p>最后，重磅推荐三本书，绝对是面试“杀手锏”，也可以说是量化圣经：</p>
+<ol>
+<li><strong>Hull J.C., Options, Futures and Other Derivatives</strong> 期权、期货等衍生品圣经。面试中衍生品定价题占大头，这本书帮你从原理到应用全搞懂。</li>
+<li><strong>Mark Joshi, Quant Job Interview Questions &amp; Answers（红皮书）</strong> 量化面试题海+答案解析，经典中的经典。Brainteaser和概率题，这里面几乎全覆盖。</li>
+<li><strong>Xinfeng Zhou, A Practical Guide to Quantitative Finance Interviews（绿皮书）</strong> 实用指南，聚焦面试实战。数学+编程+逻辑，步步为营，适合自学者。</li>
+</ol>
+<p>这些书的电子版，可以回复“quant books”免费领取。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="结语行动起来offer等你拿">结语：行动起来，Offer等你拿<a href="https://frank-quant.github.io/blog/some_books#%E7%BB%93%E8%AF%AD%E8%A1%8C%E5%8A%A8%E8%B5%B7%E6%9D%A5offer%E7%AD%89%E4%BD%A0%E6%8B%BF" class="hash-link" aria-label="Direct link to 结语：行动起来，Offer等你拿" title="Direct link to 结语：行动起来，Offer等你拿">​</a></h3>
+<p>量化面试，说难不难，说简单也不简单。关键是<strong>系统准备+持续输入</strong>。</p>
+<p>用Coachquant和QuantQuestion刷题，Quantocracy吸取资讯，三本书打底子——这份攻略执行到位，顶级Quant岗位指日可待。</p>
+<p>如果你是量化新人或在校生，课余时间不妨从这些资源入手，丰富知识的同时，顺便为未来铺路。</p>
+<p>有什么刷题心得或面试经历，欢迎评论区交流！回复关键字领书，一起冲鸭~</p>]]></content>
+        <author>
+            <name>Frank Quant</name>
+            <uri>https://github.com/frank-quant</uri>
+        </author>
+        <category label="技术分享" term="技术分享"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国庆8天，我用Cursor写了一个量化交易技术分享网站]]></title>
+        <id>https://frank-quant.github.io/blog/build_quant_website_using_cursor</id>
+        <link href="https://frank-quant.github.io/blog/build_quant_website_using_cursor"/>
+        <updated>2025-10-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今天是节后复工第一天，想必大家也都返回了工作岗位。]]></summary>
+        <content type="html"><![CDATA[<p>今天是节后复工第一天，想必大家也都返回了工作岗位。</p>
+<p>在这里后祝大家国庆&amp;中秋双节快乐。</p>
+<p>这个假期，我没有出去玩。</p>
+<p>在这一段整块的时间，我用Cursor搭建了一个网站，也算是终于有了一块沉淀自己的自留地。在此要感叹一下，现在大模型对个人的赋能太厉害了，在Cursor+Chatgpt+grok的加持下，我就像带领着一个团队，开发效率的提升让我震惊。</p>
+<p>网站内容是<strong>记录我的加密货币量化研究、实盘交易复盘与大模型赋能经验</strong>。</p>
+<p>对量化有兴趣的同学欢迎访问，地址是  <a href="https://frank-quant.github.io/quant-website/" target="_blank" rel="noopener noreferrer">https://frank-quant.github.io/quant-website/</a></p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251008190243-7daa4f9f21ea991aa6d4e7a6f984eefc.png" width="1920" height="911" class="img_ev3q"></p>
+<p>开发阶段的代码基本是Cursor帮我写的。因为我开了pro会员，给定的额度也足够我用了。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251008191510-ed2bed93aebb0e436407f6326e6e9c1d.png" width="959" height="398" class="img_ev3q"></p>
+<p>在架构设计阶段，我想把它做成一个“量化+LLM的wiki”，不仅仅是我的学习沉淀，也能帮助其他同学来这里学习参考。</p>
+<p>大部分内容还需要继续补充，目前框架是搭建好了。</p>
+<p>在顶部的工具栏，可以看到网站主要的几个模块。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-基本概念">1. 基本概念<a href="https://frank-quant.github.io/blog/build_quant_website_using_cursor#1-%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5" class="hash-link" aria-label="Direct link to 1. 基本概念" title="Direct link to 1. 基本概念">​</a></h3>
+<p>这里包含quant trade \ LLM \ Crypto的基本概念，未来的内容会很多。</p>
+<p>预期会提供完整的知识体系，涵盖加密货币、量化交易和大语言模型三大核心领域。</p>
+<p><img decoding="async" loading="lazy" src="data:image/png;base64,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" width="232" height="206" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-入门教程">2. 入门教程<a href="https://frank-quant.github.io/blog/build_quant_website_using_cursor#2-%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B" class="hash-link" aria-label="Direct link to 2. 入门教程" title="Direct link to 2. 入门教程">​</a></h3>
+<p>新人看这里，能够手把手教你跑通第一个量化程序。</p>
+<p>目前补充了Freqtrade sqlite的一些技术内容。</p>
+<p><img decoding="async" loading="lazy" src="data:image/png;base64,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" width="224" height="189" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-策略分享">3. 策略分享<a href="https://frank-quant.github.io/blog/build_quant_website_using_cursor#3-%E7%AD%96%E7%95%A5%E5%88%86%E4%BA%AB" class="hash-link" aria-label="Direct link to 3. 策略分享" title="Direct link to 3. 策略分享">​</a></h3>
+<p>在这里分享实用的量化交易策略，从基础到进阶，从理论到实践。</p>
+<p><img decoding="async" loading="lazy" src="data:image/png;base64,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" width="151" height="187" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4-实用工具">4. 实用工具<a href="https://frank-quant.github.io/blog/build_quant_website_using_cursor#4-%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7" class="hash-link" aria-label="Direct link to 4. 实用工具" title="Direct link to 4. 实用工具">​</a></h3>
+<p>这里汇集了很多量化、LLM大模型工具，帮助更好地编写量化策略。</p>
+<p>目前我把freqtrade官方文档翻译了一份中文版。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251008192750-94e4e7a1586746d523a0c18380709074.png" width="251" height="323" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="5-量化图书馆">5. 量化图书馆<a href="https://frank-quant.github.io/blog/build_quant_website_using_cursor#5-%E9%87%8F%E5%8C%96%E5%9B%BE%E4%B9%A6%E9%A6%86" class="hash-link" aria-label="Direct link to 5. 量化图书馆" title="Direct link to 5. 量化图书馆">​</a></h3>
+<p>精选量化交易、金融工程、投资心理等领域的经典书籍与读书笔记，帮助系统提升理论与实战能力。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251008192913-8cb3eeaba8505ff755cb93ea46dc2a27.png" width="536" height="394" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="6-实盘记录">6. 实盘记录<a href="https://frank-quant.github.io/blog/build_quant_website_using_cursor#6-%E5%AE%9E%E7%9B%98%E8%AE%B0%E5%BD%95" class="hash-link" aria-label="Direct link to 6. 实盘记录" title="Direct link to 6. 实盘记录">​</a></h3>
+<p>这里记录了实盘交易的复盘。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251008192958-a3ee9940a40be4244ba40c67e13a717b.png" width="270" height="232" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="7-博客">7. 博客<a href="https://frank-quant.github.io/blog/build_quant_website_using_cursor#7-%E5%8D%9A%E5%AE%A2" class="hash-link" aria-label="Direct link to 7. 博客" title="Direct link to 7. 博客">​</a></h3>
+<p>包括行业观察、市场分析、LLM应用案例、技术分享等。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251008193036-8e9e3a7efb12533c0e0a98db1e35696c.png" width="292" height="251" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Frank Quant</name>
+            <uri>https://github.com/frank-quant</uri>
+        </author>
+        <category label="技术分享" term="技术分享"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球所有资产都在暴涨，股票、黄金、比特币，均创下历史新高]]></title>
+        <id>https://frank-quant.github.io/blog/new_top</id>
+        <link href="https://frank-quant.github.io/blog/new_top"/>
+        <updated>2025-10-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大家好，我是frank，专注Crypto+Quant+LLM的深度融合和行业进展。]]></summary>
+        <content type="html"><![CDATA[<p>大家好，我是frank，专注Crypto+Quant+LLM的深度融合和行业进展。</p>
+<p>今天是2025年10月6日，全球所有资产都迎来了一波暴涨。</p>
+<p>先来点硬核数据：</p>
+<ul>
+<li><strong>美国三大股指集体破纪录</strong>：道琼斯指数首次狂飙突破<strong>47,000点</strong>大关，标普500指数小幅收涨0.06%站上<strong>6,715.35点</strong>，纳斯达克指数紧咬不放，触及日内新高；</li>
+<li><strong>黄金王者归来</strong>：价格直奔历史巅峰<strong>3,948.40美元/盎司</strong>，创下近百年最耀眼高点；</li>
+<li><strong>比特币王炸全场</strong>：一夜之间突破125,000美元关口，最高飙至<strong>125,700美元</strong>，全新历史新高！</li>
+</ul>
+<p>怎么样，看到这些数字，有没有在这秋高气爽的10月，感受到另一股来自金融市场的热浪？</p>
+<p>股票、黄金、比特币，这些曾经“各玩各的”资产，现在齐刷刷地站上了巅峰。这不是科幻电影，而是2025年真实上演的“资产狂欢”。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-市场认为现金是一文不值的">1. 市场认为现金是一文不值的<a href="https://frank-quant.github.io/blog/new_top#1-%E5%B8%82%E5%9C%BA%E8%AE%A4%E4%B8%BA%E7%8E%B0%E9%87%91%E6%98%AF%E4%B8%80%E6%96%87%E4%B8%8D%E5%80%BC%E7%9A%84" class="hash-link" aria-label="Direct link to 1. 市场认为现金是一文不值的" title="Direct link to 1. 市场认为现金是一文不值的">​</a></h3>
+<p>2025年，最火的交易策略叫“debasement trade”（贬值贸易）。</p>
+<p>简单说，就是市场赌法币会进一步贬值，于是资金疯狂涌入其他硬资产。</p>
+<p>2025年整体还是比较动荡。俄乌冲突和平无望、以色列在中东频频开火、美国政府关门闹剧 等等，都让美元指数持续走弱，投资者都在担心美国“印钞救市”会稀释货币价值。 于是“集体背弃”了现金。</p>
+<p>想想看，现金（美元、日元等法币）躺在银行里，本该是“安全港湾”，但在通胀隐忧和政治不确定性下，它成了“定时炸弹”。</p>
+<p>于是，全球央行开始加速囤积黄金储备，避开美元贬值风险。</p>
+<p>市场在用脚投票：现金的购买力在蒸发减弱，为什么不换成能“抗贬”的宝贝？</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-集体狂欢背后的风险">2. 集体狂欢背后的风险<a href="https://frank-quant.github.io/blog/new_top#2-%E9%9B%86%E4%BD%93%E7%8B%82%E6%AC%A2%E8%83%8C%E5%90%8E%E7%9A%84%E9%A3%8E%E9%99%A9" class="hash-link" aria-label="Direct link to 2. 集体狂欢背后的风险" title="Direct link to 2. 集体狂欢背后的风险">​</a></h3>
+<p>好消息是：如果你手里正拿着股票、黄金或者比特币，那最新一段时间应该乐开了花，你的财富正“躺赢”。</p>
+<p>但坏消息是，这一轮行情明显是不理性的，泡沫总有破灭的一天。</p>
+<p>历史上，2022年的“加密冬天”和2020年的闪崩，都提醒我们：狂欢往往是风暴的前奏。比特币的波动性高达80%以上，黄金虽稳，但也难敌黑天鹅。</p>
+<p>市场情绪如潮水，来得猛去得快。别FOMO（fear of missing out），要时刻关注隐藏的风险。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-守好本金分散配置">3. 守好本金，分散配置<a href="https://frank-quant.github.io/blog/new_top#3-%E5%AE%88%E5%A5%BD%E6%9C%AC%E9%87%91%E5%88%86%E6%95%A3%E9%85%8D%E7%BD%AE" class="hash-link" aria-label="Direct link to 3. 守好本金，分散配置" title="Direct link to 3. 守好本金，分散配置">​</a></h3>
+<p>我一直强调：本金是“生命线”。</p>
+<p>这场资产狂欢虽诱人，但守本金才是王道。</p>
+<p>一定要预留<strong>应急现金池</strong>，留10-20%的现金，不是囤积，而是当做“机会基金”。当市场恐慌时，它就是你的“抄底”的武器。</p>
+<p>记住，巴菲特的名言：<strong>别人恐惧时我贪婪，但前提是本金安全。</strong></p>
+<p>总之，别让一夜暴富的幻想，毁了你的长期复利。</p>
+<p>（本文基于公开市场数据，仅供参考，不构成投资建议。投资有风险，入市需谨慎。关注frank-quant，更多干货等你解锁！）</p>]]></content>
+        <author>
+            <name>Frank Quant</name>
+            <uri>https://github.com/frank-quant</uri>
+        </author>
+        <category label="市场分析" term="市场分析"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[量化交易在国内有前景吗？应该怎么入行]]></title>
+        <id>https://frank-quant.github.io/blog/quant_in_mainland</id>
+        <link href="https://frank-quant.github.io/blog/quant_in_mainland"/>
+        <updated>2025-10-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[量化交易——这个曾带着神秘光环的领域，如今正以不可阻挡的势头，成为中国金融市场最热门、最有“钱景”的赛道。]]></summary>
+        <content type="html"><![CDATA[<p>量化交易——这个曾带着神秘光环的领域，如今正以不可阻挡的势头，成为中国金融市场最热门、最有“钱景”的赛道。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251005195718-fbcdea0e77e140f514393b379e3ce831.png" width="800" height="492" class="img_ev3q"></p>
+<p>它不只是编程和金融的简单叠加，更是<strong>数学、统计、计算机与金融工程</strong>多学科交叉的前沿阵地。</p>
+<p>尤其是最近几年LLM大模型和各类AI编程工具的涌现，极大降低了量化交易的技术性门槛，让“个人量化”成为可能。</p>
+<p>无论你是计算机、统计、金融、经济学专业的毕业生，还是仅仅有一些粗浅的编程经验，只要有热情和自驱力，极度渴望用AI+金融做一些事情，那么量化交易就是为你准备的竞技场。</p>
+<p>本文将带你透视中国量化行业的格局、核心机构，以及最实用的入行路径。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-什么是量化交易">1. 什么是量化交易？<a href="https://frank-quant.github.io/blog/quant_in_mainland#1-%E4%BB%80%E4%B9%88%E6%98%AF%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93" class="hash-link" aria-label="Direct link to 1. 什么是量化交易？" title="Direct link to 1. 什么是量化交易？">​</a></h3>
+<p>量化交易（Quantitative Trading）是通过<strong>数学模型、统计分析和计算机程序</strong>，在海量市场数据中寻找、验证并执行交易机会的过程。</p>
+<p>它与传统交易最大的区别在于：决策不再依赖人为的经验和直觉，而是完全<strong>数据驱动、策略测试与风险控制</strong>。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251005195739-012b0a89e5d87fe3b930f7deed5127d1.png" width="1200" height="675" class="img_ev3q"></p>
+<p>主流的量化策略有以下类型：</p>
+<ul>
+<li><strong>高频交易（HFT）：</strong> 以微秒为单位进行买卖，追求极致的速度和执行效率。</li>
+<li><strong>统计套利：</strong> 利用资产之间的统计关系（如配对交易、协整性）进行低风险套利。</li>
+<li><strong>因子投资：</strong> 基于特定的风格因子（如动量、价值、成长）来构建投资组合。</li>
+<li><strong>机器学习策略：</strong> 利用AI/ML模型（如神经网络）来预测价格走势或信号强度。</li>
+</ul>
+<p>==<strong>情绪是市场的敌人，而量化是我们的盟友，可以规避情绪对交易的误判。</strong>==</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-国内有哪些做量化的机构">2. 国内有哪些做量化的机构？<a href="https://frank-quant.github.io/blog/quant_in_mainland#2-%E5%9B%BD%E5%86%85%E6%9C%89%E5%93%AA%E4%BA%9B%E5%81%9A%E9%87%8F%E5%8C%96%E7%9A%84%E6%9C%BA%E6%9E%84" class="hash-link" aria-label="Direct link to 2. 国内有哪些做量化的机构？" title="Direct link to 2. 国内有哪些做量化的机构？">​</a></h3>
+<p>近年来，在国内，量化交易从小众走向主流，市场参与者日益丰富，共同塑造了一个多层次的量化生态。</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="21-私募量化机构quant-hedge-funds">2.1 私募量化机构（Quant Hedge Funds）<a href="https://frank-quant.github.io/blog/quant_in_mainland#21-%E7%A7%81%E5%8B%9F%E9%87%8F%E5%8C%96%E6%9C%BA%E6%9E%84quant-hedge-funds" class="hash-link" aria-label="Direct link to 2.1 私募量化机构（Quant Hedge Funds）" title="Direct link to 2.1 私募量化机构（Quant Hedge Funds）">​</a></h4>
+<p>这是行业中最具影响力、薪酬最高的群体，他们的交易系统高度自动化，以追求绝对收益为目标。</p>
+<table><thead><tr><th>机构代表</th><th>核心特点</th><th>关键布局</th></tr></thead><tbody><tr><td><strong>九坤投资</strong></td><td>以高频交易起家，策略成熟</td><td>近年来积极布局<strong>AI量化</strong>，持续迭代。</td></tr><tr><td><strong>幻方量化</strong></td><td>擅长模型驱动，注重学术背景</td><td>曾大规模招募AI、<strong>数学博士</strong>，强调人才优势。</td></tr><tr><td><strong>明汯投资</strong></td><td>注重中低频策略的深度研究</td><td>团队背景以<strong>数理金融</strong>为主，风格稳健。</td></tr><tr><td><strong>灵均投资</strong></td><td>强调数据平台和独立研究</td><td>拥有自研的、强大的<strong>数据平台</strong>和风控系统。</td></tr></tbody></table>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251005195823-32cddf1677d162f6d3ac85dd9b2b85c3.png" width="825" height="1518" class="img_ev3q"></p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="22-公募基金量化">2.2 公募基金量化<a href="https://frank-quant.github.io/blog/quant_in_mainland#22-%E5%85%AC%E5%8B%9F%E5%9F%BA%E9%87%91%E9%87%8F%E5%8C%96" class="hash-link" aria-label="Direct link to 2.2 公募基金量化" title="Direct link to 2.2 公募基金量化">​</a></h4>
+<p>如华泰柏瑞、易方达、富国、嘉实等。它们专注于长期稳定的量化投资，策略风格更贴合大众，<strong>适合风险偏好较低的应届生入门</strong>。</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="23-券商自营与资管">2.3 券商自营与资管<a href="https://frank-quant.github.io/blog/quant_in_mainland#23-%E5%88%B8%E5%95%86%E8%87%AA%E8%90%A5%E4%B8%8E%E8%B5%84%E7%AE%A1" class="hash-link" aria-label="Direct link to 2.3 券商自营与资管" title="Direct link to 2.3 券商自营与资管">​</a></h4>
+<p>中金公司、中信证券、华泰证券等头部券商设有量化研究岗，主要负责<strong>套利、风控模型、以及策略研究</strong>，对工程背景有偏好。</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="24-外资投行">2.4 外资投行<a href="https://frank-quant.github.io/blog/quant_in_mainland#24-%E5%A4%96%E8%B5%84%E6%8A%95%E8%A1%8C" class="hash-link" aria-label="Direct link to 2.4 外资投行" title="Direct link to 2.4 外资投行">​</a></h4>
+<p>摩根大通、高盛、花旗等在全球量化领域经验丰富，其驻华部门重点研究<strong>跨市场套利、因子研究和交易执行优化</strong>等国际化方向。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-量化行业有哪些职业岗位">3. 量化行业有哪些职业岗位？<a href="https://frank-quant.github.io/blog/quant_in_mainland#3-%E9%87%8F%E5%8C%96%E8%A1%8C%E4%B8%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E8%81%8C%E4%B8%9A%E5%B2%97%E4%BD%8D" class="hash-link" aria-label="Direct link to 3. 量化行业有哪些职业岗位？" title="Direct link to 3. 量化行业有哪些职业岗位？">​</a></h3>
+<p>量化行业提供了清晰且回报丰厚的职业路径，核心岗位主要分为研究和工程两大类。</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="31-核心初级岗位">3.1 <strong>核心初级岗位</strong><a href="https://frank-quant.github.io/blog/quant_in_mainland#31-%E6%A0%B8%E5%BF%83%E5%88%9D%E7%BA%A7%E5%B2%97%E4%BD%8D" class="hash-link" aria-label="Direct link to 31-核心初级岗位" title="Direct link to 31-核心初级岗位">​</a></h4>
+<p><strong>量化研究员 (QR)</strong>，主要负责构建策略、挖掘因子、设计和优化回测系统。需要有扎实的数理统计功底、Python/R、金融知识；
+<strong>策略开发工程师 (Quant Dev)</strong>，主要负责将研究员的模型部署为<strong>高性能、低延迟</strong>的交易系统。需要C++ / Python、高并发、低延迟系统设计经验；
+<strong>数据工程师 (Data Engineer)</strong>，负责海量数据的清洗、API搭建、数据库设计和维护。需要熟悉SQL、分布式数据库、数据管道技术。</p>
+<p>在量化行业，一般薪酬也是非常吸引人的。在一线量化私募，优秀应届毕业生的年薪起步可达 <strong>40万-80万元人民币</strong>，顶级机构还会提供丰厚的期权激励。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251005195930-66dac629d7b793ab73528e3e1b90db97.png" width="1083" height="634" class="img_ev3q"></p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="32-高级岗位进阶">3.2 <strong>高级岗位进阶</strong><a href="https://frank-quant.github.io/blog/quant_in_mainland#32-%E9%AB%98%E7%BA%A7%E5%B2%97%E4%BD%8D%E8%BF%9B%E9%98%B6" class="hash-link" aria-label="Direct link to 32-高级岗位进阶" title="Direct link to 32-高级岗位进阶">​</a></h4>
+<p>随着经验的积累，职业路径会向更高级的管理和决策层发展，包括：资深策略负责人、投资经理（PM）、首席技术官（CTO）、直至合伙人（Partner）。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4-想入行量化应该做什么准备">4. 想入行量化应该做什么准备？<a href="https://frank-quant.github.io/blog/quant_in_mainland#4-%E6%83%B3%E5%85%A5%E8%A1%8C%E9%87%8F%E5%8C%96%E5%BA%94%E8%AF%A5%E5%81%9A%E4%BB%80%E4%B9%88%E5%87%86%E5%A4%87" class="hash-link" aria-label="Direct link to 4. 想入行量化应该做什么准备？" title="Direct link to 4. 想入行量化应该做什么准备？">​</a></h3>
+<p>量化交易并非只属于“数学大神”，它更青睐那些能够<strong>持续学习、独立思考</strong>，并将理论付诸实践的人。</p>
+<p><strong>如果你具备以下特质，就非常适合：</strong></p>
+<ul>
+<li>热爱数学、统计学和编程，对Python、C++、SQL等语言有实战经验；</li>
+<li>擅长分析复杂问题、构建模型，并能独立推演逻辑；</li>
+<li>愿意接受失败，通过不断测试和验证来持续优化策略；</li>
+<li>对金融市场有浓厚兴趣，关注市场动态与数据背后的逻辑。</li>
+</ul>
+<p>对于想入行做量化的毕业生，我建议：</p>
+<ul>
+<li><strong>打好编程基础：</strong> 深入学习 <strong>Python</strong> 及其科学计算库（Pandas, NumPy）；</li>
+<li><strong>了解金融内核：</strong> 学习金融基础知识和经典量化策略的原理；</li>
+<li><strong>多加实践：</strong> 积极参加 <strong>Quant 竞赛</strong>（如Kaggle、各大机构挑战赛）或寻找相关实习；</li>
+<li><strong>构建个人项目：</strong> 尝试用 Freqtrade 等开源框架构建个人的量化项目或回测系统，这是简历中最具说服力的部分。</li>
+</ul>
+<p>总而言之，量化交易是一个竞争激烈但机会无限的行业。它要求你拥有技术深度，也要求你理解金融市场。</p>
+<p>不要被高门槛吓退，真正的核心竞争力是<strong>持续学习和独立思考</strong>的能力。</p>
+<p>==<strong>现在，就是你入局的最佳时机。</strong>==</p>]]></content>
+        <author>
+            <name>Frank Quant</name>
+            <uri>https://github.com/frank-quant</uri>
+        </author>
+        <category label="技术分享" term="技术分享"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cursor新员工都要用Cursor完成一个入职项目]]></title>
+        <id>https://frank-quant.github.io/blog/Cursor_project_for_newer</id>
+        <link href="https://frank-quant.github.io/blog/Cursor_project_for_newer"/>
+        <updated>2025-10-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今天来聊一聊一个刷屏AI科技圈的大事：Cursor AI团队公开了他们的内部入职项目指南！]]></summary>
+        <content type="html"><![CDATA[<p>今天来聊一聊一个刷屏AI科技圈的大事：Cursor AI团队公开了他们的内部入职项目指南！</p>
+<p>就在10月2日，Cursor的GTM负责人Kash Ye Churi在X上分享了这个消息，引起很多开发者关注，短短两天就有2万多人感兴趣。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251004093327-5e5f0cb869184a763a6ec626be1533c8.png" width="543" height="796" class="img_ev3q"></p>
+<p>这里没有枯燥的PPT，也没有枯燥的讲座培训，而是一份“动手即上手”的实战指南，帮助非技术人员在几天内从零构建、部署一个完整项目。</p>
+<p>访问链接：<a href="https://www.notion.so/cursorai/Building-with-Cursor-public-273da74ef0458051bf22e86a1a0a5c7d" target="_blank" rel="noopener noreferrer">Building with Cursor</a></p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251004094134-2488c340f7eb66a9fe2429beb02b8766.png" width="1909" height="909" class="img_ev3q"></p>
+<p>项目主页面的背景图也很考究，是古希腊神庙+Cursor标志性的立方体logo。表示“从砖块到殿堂”，这里就是借助AI走向开发者的第一步。</p>
+<p>这份公开指南非常简洁，专为零基础设计，总时长1-2天就能完成。</p>
+<p>最核心的步骤只有6步，超级友好。不用担心不会写代码，我们全程只需要使用“自然语言”即可——你说“帮我建个聊天机器人”，Cursor就能自动补全！</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251004094833-66ffbdb849ac671ec667a267ab9c7aad.png" width="420" height="224" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-安装并配置cursor">1. 安装并配置Cursor<a href="https://frank-quant.github.io/blog/Cursor_project_for_newer#1-%E5%AE%89%E8%A3%85%E5%B9%B6%E9%85%8D%E7%BD%AEcursor" class="hash-link" aria-label="Direct link to 1. 安装并配置Cursor" title="Direct link to 1. 安装并配置Cursor">​</a></h3>
+<p>下载Cursor，安装并配置必要的API密钥。这一步跟安装其他的App一样简单，完成后就能进入“AI协作模式”。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251004094930-12dd07cfb36ca38f8d74369fa2c3e2ee.png" width="2048" height="1124" class="img_ev3q"></p>
+<p>Curosr新用户可以免费试用两周。如果你跟我一样，也是每个月花20美元买的Cursor Pro，直接使用即可，已经包含了很多额度，基本用不完。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251004095243-0c65f4f9d3abdf829c3a3b1325618d76.png" width="650" height="392" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-快速了解cursor界面">2. 快速了解Cursor界面<a href="https://frank-quant.github.io/blog/Cursor_project_for_newer#2-%E5%BF%AB%E9%80%9F%E4%BA%86%E8%A7%A3cursor%E7%95%8C%E9%9D%A2" class="hash-link" aria-label="Direct link to 2. 快速了解Cursor界面" title="Direct link to 2. 快速了解Cursor界面">​</a></h3>
+<p>这一步主要熟悉聊天面板、代码补全区。</p>
+<p>关键的是要学会用提示工程（prompt），让AI懂你心意。如果已经有过使用大模型工具的经验，这一步会非常简单。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251004095435-51b59ac9a63f1c5826d5ff2b548f4541.png" width="1193" height="710" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-创建项目">3. 创建项目<a href="https://frank-quant.github.io/blog/Cursor_project_for_newer#3-%E5%88%9B%E5%BB%BA%E9%A1%B9%E7%9B%AE" class="hash-link" aria-label="Direct link to 3. 创建项目" title="Direct link to 3. 创建项目">​</a></h3>
+<p>这里可以选择模板或者空项目，和“新建文件夹”一样简单。</p>
+<p>到这一步可以发现，前面三个步骤都属于前摇，不算干货。但毕竟教程是针对小白的，可以说十分友好了。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251004095628-b176b1a75a5cde8db5d8de8c8de55c7e.png" width="1197" height="766" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4-个性化配置加点你的味道">4. 个性化配置：加点“你的味道”<a href="https://frank-quant.github.io/blog/Cursor_project_for_newer#4-%E4%B8%AA%E6%80%A7%E5%8C%96%E9%85%8D%E7%BD%AE%E5%8A%A0%E7%82%B9%E4%BD%A0%E7%9A%84%E5%91%B3%E9%81%93" class="hash-link" aria-label="Direct link to 4. 个性化配置：加点“你的味道”" title="Direct link to 4. 个性化配置：加点“你的味道”">​</a></h3>
+<p>调UI、加功能，用AI优化。这里要多问问AI，哪里可以优化、怎么优化？</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251004101249-534bc479e2ce38088cba80d6ff4c207a.png" width="1197" height="771" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="5-集成github学会团队协作">5. 集成GitHub：学会团队协作<a href="https://frank-quant.github.io/blog/Cursor_project_for_newer#5-%E9%9B%86%E6%88%90github%E5%AD%A6%E4%BC%9A%E5%9B%A2%E9%98%9F%E5%8D%8F%E4%BD%9C" class="hash-link" aria-label="Direct link to 5. 集成GitHub：学会团队协作" title="Direct link to 5. 集成GitHub：学会团队协作">​</a></h3>
+<p>设置repo，掌握commit/push。非技术人也能玩转版本控制，不怕代码丢了。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="6-vercel部署一键上线成就感爆棚">6. Vercel部署：一键上线，成就感爆棚<a href="https://frank-quant.github.io/blog/Cursor_project_for_newer#6-vercel%E9%83%A8%E7%BD%B2%E4%B8%80%E9%94%AE%E4%B8%8A%E7%BA%BF%E6%88%90%E5%B0%B1%E6%84%9F%E7%88%86%E6%A3%9A" class="hash-link" aria-label="Direct link to 6. Vercel部署：一键上线，成就感爆棚" title="Direct link to 6. Vercel部署：一键上线，成就感爆棚">​</a></h3>
+<p>绑定域名，环境变量搞定。项目就活了！分享链接，朋友圈炫耀去吧。</p>
+<p>这份指南的魅力在于<strong>实用闭环</strong>：不教理论，只教行动。</p>
+<p>Cursor强调：“Build &amp; Ship”，完美契合当下“快速迭代”的职场节奏。</p>
+<p>无论你是职场新人、转行码农，还是好奇宝宝，都值得一试。</p>
+<p>去下载Cursor，挑个idea，跟着6步走——说不定，你的第一个项目就成了简历亮点！</p>]]></content>
+        <author>
+            <name>Frank Quant</name>
+            <uri>https://github.com/frank-quant</uri>
+        </author>
+        <category label="LLM应用" term="LLM应用"/>
+        <category label="Cursor" term="Cursor"/>
+        <category label="GPT-5" term="GPT-5"/>
+        <category label="技术分享" term="技术分享"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[高盛2025年AI产业研报《Powering the AI Era》]]></title>
+        <id>https://frank-quant.github.io/blog/Powering the AI Era</id>
+        <link href="https://frank-quant.github.io/blog/Powering the AI Era"/>
+        <updated>2025-10-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[高盛最近发了2025 AI产业研报《Powering the AI Era》，非常有参考价值。提炼总结一下，可以分为19点： 1. AI是基础设施革命：AI是继铁路、电气化、互联网后的重大技术拐点，其发展依赖资本与基础设施支撑，而不仅仅是代码与模型。 2. 天价成本结构：一座250MW AI数据中心总成本约120亿美元，其中内部GPU等设备成本是物理建筑成本的3-4倍。 3. 最紧迫瓶颈在电力：到2030年，全球数据中心电力需求预计激增160%，但当前老旧电网无法适配，构成最紧迫瓶颈。 4. 短期电力矛盾突出：天然气电厂审批建设需5-7年，风光能源供电间歇性强，核电是长期方案，导致短期电力供需矛盾尖锐。 5. 功耗密度飙升：2027年AI服务器机架功率将是5年前云服务器的50倍，GPU高能耗亟需液冷等先进散热方案。 6. 资本投入创纪录：超大规模企业（如亚马逊、谷歌）计划2027年投入1万亿美元用于AI，2024年全球该类企业日资本支出约8亿美元。 7. 供需严重失衡：全球数据中心空置率仅3%，热门市场近0%，2028年前难有大规模新增电力，供需缺口显著。 8. 融资模式创新：传统融资失效，需VC、SASB证券化等创新方式。2025年数据中心SASB交易规模预计突破20亿美元。 9. 主权基金入场：2024年Equinix联合新加坡主权基金、加拿大养老金募资150亿美元，用于扩建美国超大规模数据中心。 10. 电网老化严重：美国电网设施平均已使用40年，2030年美国数据中心需求与供应缺口将达10.4GW。 11. 能源结构预测：高盛预测，60%数据中心新增电力需求将由30%天然气CCGT、30%天然气调峰电厂、27.5%太阳能、12.5%风能满足。 12. 核电目标远大：美国政府推动2050年核电容量达400GW（当前100GW），微软等企业通过长期购电协议重启旧核电站。 13. 表后供电兴起：“自建微电网、直连电厂”成为绕开电网瓶颈的选择，但存在污染与监管争议。 14. 全球资本需求：到2030年，全球能源转型、电力与公用事业、数字基础设施分别需12万亿、3万亿、2万亿美元资本。 15. 新加坡REIT优势：新加坡REIT市场（规模680亿美元）因税收优势，成为全球数据中心REIT上市热门选择。 16. 新玩家涌入：除超大规模企业外，新兴云厂商也在斥资建设GPU数据中心，加剧市场竞争。 17. AI推理耗电巨大：一次ChatGPT查询的耗电量约为一次Google搜索的10倍，凸显AI应用能效差异。 18. 铜成为战略资源：电网大规模升级将推动铜需求，到2030年，电网建设将贡献全球铜需求增长的60%。 19. 地缘政治工具化：数据中心选址已成为地缘政治工具，各国通过政策吸引投资，报告指出中国在电力供应方面具备优势。]]></summary>
+        <content type="html"><![CDATA[<p>高盛最近发了2025 AI产业研报《Powering the AI Era》，非常有参考价值。提炼总结一下，可以分为19点： 1. AI是基础设施革命：AI是继铁路、电气化、互联网后的重大技术拐点，其发展依赖资本与基础设施支撑，而不仅仅是代码与模型。 2. 天价成本结构：一座250MW AI数据中心总成本约120亿美元，其中内部GPU等设备成本是物理建筑成本的3-4倍。 3. 最紧迫瓶颈在电力：到2030年，全球数据中心电力需求预计激增160%，但当前老旧电网无法适配，构成最紧迫瓶颈。 4. 短期电力矛盾突出：天然气电厂审批建设需5-7年，风光能源供电间歇性强，核电是长期方案，导致短期电力供需矛盾尖锐。 5. 功耗密度飙升：2027年AI服务器机架功率将是5年前云服务器的50倍，GPU高能耗亟需液冷等先进散热方案。 6. 资本投入创纪录：超大规模企业（如亚马逊、谷歌）计划2027年投入1万亿美元用于AI，2024年全球该类企业日资本支出约8亿美元。 7. 供需严重失衡：全球数据中心空置率仅3%，热门市场近0%，2028年前难有大规模新增电力，供需缺口显著。 8. 融资模式创新：传统融资失效，需VC、SASB证券化等创新方式。2025年数据中心SASB交易规模预计突破20亿美元。 9. 主权基金入场：2024年Equinix联合新加坡主权基金、加拿大养老金募资150亿美元，用于扩建美国超大规模数据中心。 10. 电网老化严重：美国电网设施平均已使用40年，2030年美国数据中心需求与供应缺口将达10.4GW。 11. 能源结构预测：高盛预测，60%数据中心新增电力需求将由30%天然气CCGT、30%天然气调峰电厂、27.5%太阳能、12.5%风能满足。 12. 核电目标远大：美国政府推动2050年核电容量达400GW（当前100GW），微软等企业通过长期购电协议重启旧核电站。 13. 表后供电兴起：“自建微电网、直连电厂”成为绕开电网瓶颈的选择，但存在污染与监管争议。 14. 全球资本需求：到2030年，全球能源转型、电力与公用事业、数字基础设施分别需12万亿、3万亿、2万亿美元资本。 15. 新加坡REIT优势：新加坡REIT市场（规模680亿美元）因税收优势，成为全球数据中心REIT上市热门选择。 16. 新玩家涌入：除超大规模企业外，新兴云厂商也在斥资建设GPU数据中心，加剧市场竞争。 17. AI推理耗电巨大：一次ChatGPT查询的耗电量约为一次Google搜索的10倍，凸显AI应用能效差异。 18. 铜成为战略资源：电网大规模升级将推动铜需求，到2030年，电网建设将贡献全球铜需求增长的60%。 19. 地缘政治工具化：数据中心选址已成为地缘政治工具，各国通过政策吸引投资，报告指出中国在电力供应方面具备优势。</p>]]></content>
+        <author>
+            <name>Frank Quant</name>
+            <uri>https://github.com/frank-quant</uri>
+        </author>
+        <category label="LLM应用" term="LLM应用"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我想给计算机专业的大一新生几个建议]]></title>
+        <id>https://frank-quant.github.io/blog/some_advice</id>
+        <link href="https://frank-quant.github.io/blog/some_advice"/>
+        <updated>2025-10-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近正好是国庆假期，大一新生都刚刚结束了军训。国庆假期之后，也正式开始了大学生涯。]]></summary>
+        <content type="html"><![CDATA[<p>最近正好是国庆假期，大一新生都刚刚结束了军训。国庆假期之后，也正式开始了大学生涯。</p>
+<p>回想我的大一开学，已经是遥远的2013年了。在学校度过的4年本科+3年研究生，是我人生中最重要的阶段，也是我的人生观、世界观和个人技能塑造最最重要的7年。</p>
+<p>现在，我已经是一个工作5年的老鸟。回想当时的大学生活，也颇有感慨。</p>
+<p>在这里不装不吹，跟各位本科朋友们，尤其是计算机专业的同学，分享几个建议，希望对你们有用。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-一定要读一读互联网史">1. 一定要读一读互联网史<a href="https://frank-quant.github.io/blog/some_advice#1-%E4%B8%80%E5%AE%9A%E8%A6%81%E8%AF%BB%E4%B8%80%E8%AF%BB%E4%BA%92%E8%81%94%E7%BD%91%E5%8F%B2" class="hash-link" aria-label="Direct link to 1. 一定要读一读互联网史" title="Direct link to 1. 一定要读一读互联网史">​</a></h3>
+<p>自1980年个人pc普及以来，信息革命的浪潮席卷全球，才催生了一系列科技巨头，深刻改变了人类的生活方式。</p>
+<p>微软、IBM、甲骨文、Google、苹果等巨无霸公司，就是在这样的背景下诞生。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251004195409-d52e01d52811335223d1080dc0a0cb9e.png" width="800" height="319" class="img_ev3q"></p>
+<p>读互联网史不是怀旧，而是以最低成本了解互联网浪潮的来时路，更快地建立“技术直觉”，培养商业嗅觉。</p>
+<p>结合我的经验，我强烈建议在大一就阅读这几本书：</p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="浪潮之巅">《浪潮之巅》<a href="https://frank-quant.github.io/blog/some_advice#%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85" class="hash-link" aria-label="Direct link to 《浪潮之巅》" title="Direct link to 《浪潮之巅》">​</a></h4>
+<p>这本书的作者是原Google大牛吴军博士，分章节讲解了IBM 公司、苹果公司、英特尔公司、微软公司、思科公司、雅虎公司和Google公司是如何把握时机并发展壮大，系统地介绍了这些公司成功的本质原因及科技工业一百多年的发展。</p>
+<p>书中讲述的IT领域的曾经的和当下的巨头们的发展史，论证了一波波浪潮的特征。就像说人这一辈子是一命二运三风水一样，公司的发展不可能只用浪潮来归纳。管理、创始人的个人能力、资源等等，都可能影响到一个公司的发展，理解浪潮，可以减少发生以卵击石、螳臂挡车的惨剧。</p>
+<p>书中最让我印象深刻的话，是 “在工业史上，一种新技术代替旧的技术是不以人的意志为转移的。人生最幸运之事就是发现和顺应这个潮流。”</p>
+<p>现在的大模型、AI、Agent 又何尝不是新一波正在汹涌的浪潮呢？</p>
+<p>在我看来，《浪潮之巅》绝对可以称之为中国IT领域的名著。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251004193730-9396b86628b4d8b67358316e08b20f9b.png" width="660" height="273" class="img_ev3q"></p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="沸腾十五年中国互联网1995-2009">《沸腾十五年：中国互联网1995-2009》<a href="https://frank-quant.github.io/blog/some_advice#%E6%B2%B8%E8%85%BE%E5%8D%81%E4%BA%94%E5%B9%B4%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%911995-2009" class="hash-link" aria-label="Direct link to 《沸腾十五年：中国互联网1995-2009》" title="Direct link to 《沸腾十五年：中国互联网1995-2009》">​</a></h4>
+<p>这本书着重讲解国内互联网发展史。</p>
+<p>在这里你能看到马化腾、丁磊、张朝阳、马云、陈天桥、李彦宏、史玉柱、田溯宁、张树新、王志东、王峻涛、雷军、周鸿祎等等这些大佬们当年创业发家的故事，看了令人热血沸腾，会产生一种马上就进行互联网创业的冲动。</p>
+<p>很多00后都会说，“80/90后只是赶上了好时候，我们已经错过了高速发展的列车”。</p>
+<p>那就应该来看看，那个“好时代”到底是什么样的，如果你身处其中，能否掀起一些波浪？</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251004193800-ed5489f21bc1fe57b46982c91a70d30d.png" width="664" height="246" class="img_ev3q"></p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="沸腾新十年">《沸腾新十年》<a href="https://frank-quant.github.io/blog/some_advice#%E6%B2%B8%E8%85%BE%E6%96%B0%E5%8D%81%E5%B9%B4" class="hash-link" aria-label="Direct link to 《沸腾新十年》" title="Direct link to 《沸腾新十年》">​</a></h4>
+<p>这本书其实有两本，目前都已经初版了。主要讲的是2010年后中国移动互联网的发展史。</p>
+<p>美团、快手、抖音、今日头条、拼多多……在这里你都能看到，当年为什么是这些公司胜出，他们有的胜在商业模式，有的胜在组织效率，都有值得我们学习的地方。</p>
+<p>这两本书写的非常精彩，有种荡气回肠的感觉，看得出作者花了非常多的时间，因此整本书感觉非常扎实，无论是从史料，八卦，严谨度都绝对可以算得上是考古史料一般的存在，基本上还原了整个互联网发展的历史脉络，把每一个大的时间段，大的公司，以及个人，都囊括进去了，说是百科全书也不过分。</p>
+<p>我认为，无论是对于从业者，还是对于想了解互联网尤其是移动互联网发展史的朋友来说，都算得上必读书和入门书的存在。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251004193826-4a2ee25f0b629d24f3c6b664de4c820e.png" width="664" height="270" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-一定要了解ai前沿发展">2. 一定要了解AI前沿发展<a href="https://frank-quant.github.io/blog/some_advice#2-%E4%B8%80%E5%AE%9A%E8%A6%81%E4%BA%86%E8%A7%A3ai%E5%89%8D%E6%B2%BF%E5%8F%91%E5%B1%95" class="hash-link" aria-label="Direct link to 2. 一定要了解AI前沿发展" title="Direct link to 2. 一定要了解AI前沿发展">​</a></h3>
+<p>现在AI绝对是大风口，技术进展日新月异。前几天还都在说Google的nano banana，今天就全都在聊OpenAI的Sora2了。</p>
+<p>强烈建议从大一就开始看 AI。特别是要建立工程化能力。</p>
+<p>读几篇综述/教程就上手做一个能跑得起来的小作品，就能比只刷新闻的人更快建立“可迁移的能力”。</p>
+<p>我在学校时最大的收获，是把“看论文”变成“做小实验再写复盘”。当你能把一个想法在本地跑通，再解释自己为什么这么做，你就已经领先了绝大多数只会转发的人。</p>
+<p>这里推荐一个播客节目，《张小珺 商业访谈录》，每一期都会对国内AI大牛或创业者进行访谈。刚开始听不懂没关系，硬听下去慢慢就理解接受了。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251004194025-b0a2f397fe3adc68aae5a2463875bff8.png" width="594" height="727" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-坚持做一件输出型的事">3. 坚持做一件输出型的事<a href="https://frank-quant.github.io/blog/some_advice#3-%E5%9D%9A%E6%8C%81%E5%81%9A%E4%B8%80%E4%BB%B6%E8%BE%93%E5%87%BA%E5%9E%8B%E7%9A%84%E4%BA%8B" class="hash-link" aria-label="Direct link to 3. 坚持做一件输出型的事" title="Direct link to 3. 坚持做一件输出型的事">​</a></h3>
+<p>很多人以为“会了再写”，其实“边写才会”。输出是迫使你把模糊的理解变成清晰结构的最好方式。</p>
+<p>选一个你愿意长期维护的载体：博客、GitHub、播客或微信公众号，坚持一年，你会明显感受到知识的复利。</p>
+<p>我常用的做法是固定一个“输出时段”，用同一个模板写：问题是什么→我怎么做→结果如何→有哪些坑→下一步做什么。久而久之，你会形成自己解决问题的方法库。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4-早日开始打造个人ip">4. 早日开始打造个人IP<a href="https://frank-quant.github.io/blog/some_advice#4-%E6%97%A9%E6%97%A5%E5%BC%80%E5%A7%8B%E6%89%93%E9%80%A0%E4%B8%AA%E4%BA%BAip" class="hash-link" aria-label="Direct link to 4. 早日开始打造个人IP" title="Direct link to 4. 早日开始打造个人IP">​</a></h3>
+<p>个人 IP 不是“包装”，而是“清晰可见的持续产出”。</p>
+<p>从两个问题开始：我希望被谁认识？我希望被哪些关键词记住？回答清楚后，围绕这个主题持续创作，把作品沉淀到可被检索和复用的地方。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="5-国际化视野很重要">5. 国际化视野很重要<a href="https://frank-quant.github.io/blog/some_advice#5-%E5%9B%BD%E9%99%85%E5%8C%96%E8%A7%86%E9%87%8E%E5%BE%88%E9%87%8D%E8%A6%81" class="hash-link" aria-label="Direct link to 5. 国际化视野很重要" title="Direct link to 5. 国际化视野很重要">​</a></h3>
+<p>一定要学好英语！一定要学好英语！一定要学好英语！</p>
+<p>很多人会认为，国内技术已经很发达了，不用英语也没关系，看看搬运翻译过来的内容就行。这样想就是大错特错。</p>
+<p>现在很多前沿的技术进展，第一手资料通常都在国外官方文档、论文和社区讨论里。你越早适应英文输入与输出，越能直接接触世界范围的最佳实践与机会。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="6-不要只是局限在计算机行业">6. 不要只是局限在计算机行业<a href="https://frank-quant.github.io/blog/some_advice#6-%E4%B8%8D%E8%A6%81%E5%8F%AA%E6%98%AF%E5%B1%80%E9%99%90%E5%9C%A8%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A1%8C%E4%B8%9A" class="hash-link" aria-label="Direct link to 6. 不要只是局限在计算机行业" title="Direct link to 6. 不要只是局限在计算机行业">​</a></h3>
+<p>计算机是“通用方法论”，真正的机会在具体场景里。</p>
+<p>和不同专业的同学一起做项目，你会学到如何定义问题、如何权衡产品与工程、如何用数据和实验说话。</p>
+<p>我见过最好的成长路径，是做一个跨学科的小项目：哪怕只是“课程表自动排版”“实验室设备预约助手”“校园活动数据看板”，都能让你跑完一次从需求到上线的闭环。</p>
+<p>以上就是我的分享，如果其他的职场老鸟看到了，也可以在评论区分享一下自己的建议。</p>]]></content>
+        <author>
+            <name>Frank Quant</name>
+            <uri>https://github.com/frank-quant</uri>
+        </author>
+        <category label="技术分享" term="技术分享"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加密货币量化交易的顶级机构剖析]]></title>
+        <id>https://frank-quant.github.io/blog/some_top_infr</id>
+        <link href="https://frank-quant.github.io/blog/some_top_infr"/>
+        <updated>2025-10-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大家好，我是frank，专注Crypto+Quant+LLM的深度融合和行业进展。]]></summary>
+        <content type="html"><![CDATA[<p>大家好，我是frank，专注Crypto+Quant+LLM的深度融合和行业进展。</p>
+<p>今天是2025年10月2日，BTC已经涨到11.8w美元了，对比两年前翻了快4倍。</p>
+<p>这轮牛市里，量化机构赚得盆满钵满。它们靠算法吃饭，做高频、做市商、提供流动性，基本掌控了市场的定价权。很多人以为加密货币就是散户玩玩，其实背后这些量化巨鳄才是真正的主力。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251002192509-16506216def0b0ff5cdee2e3cfc4c6e6.png" width="1390" height="664" class="img_ev3q"></p>
+<p>今天聊聊6家我比较关注的顶级量化机构，看看它们的资金规模、玩法特点和最新业绩。这些数据都是2025年公开报告里扒出来的，算是给大家做个参考。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-amber-groupq2收入环比暴涨2300">1. Amber Group：Q2收入环比暴涨2300%<a href="https://frank-quant.github.io/blog/some_top_infr#1-amber-groupq2%E6%94%B6%E5%85%A5%E7%8E%AF%E6%AF%94%E6%9A%B4%E6%B6%A82300" class="hash-link" aria-label="Direct link to 1. Amber Group：Q2收入环比暴涨2300%" title="Direct link to 1. Amber Group：Q2收入环比暴涨2300%">​</a></h3>
+<p>新加坡的Amber Group，这家我关注挺久了。</p>
+<p>官网：<a href="https://www.ambergroup.io/" target="_blank" rel="noopener noreferrer">https://www.ambergroup.io/</a></p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251002193718-a50d2b6ad3a28f56bfa38c096e2c2f80.png" width="1914" height="908" class="img_ev3q"></p>
+<p>2025年他们持有大概1亿美元的加密资产，Q2资产同比增长35.7%。这个增速在牛市里算是比较稳健的。</p>
+<p>他们的特点是把AI和量化结合得很深，不只做交易，还搞流动性提供、财富管理这些服务。说白了就是全方位吃这个市场。擅长捕捉市场微观波动，做套利和对冲。</p>
+<p>看看业绩就知道有多猛：</p>
+<ul>
+<li>Q2收入2100万美元，毛利率71.3%，EBITDA转正</li>
+<li>Q1收入1494万美元，到Q2环比直接飙升2300%</li>
+</ul>
+<p>这个增长速度确实有点吓人。他们应该是踩准了牛市的节奏，而且AI这块确实给他们加了不少分。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-gsr-markets做市商里的头部玩家">2. GSR Markets：做市商里的头部玩家<a href="https://frank-quant.github.io/blog/some_top_infr#2-gsr-markets%E5%81%9A%E5%B8%82%E5%95%86%E9%87%8C%E7%9A%84%E5%A4%B4%E9%83%A8%E7%8E%A9%E5%AE%B6" class="hash-link" aria-label="Direct link to 2. GSR Markets：做市商里的头部玩家" title="Direct link to 2. GSR Markets：做市商里的头部玩家">​</a></h3>
+<p>香港的GSR Markets，做衍生品和风险管理的。</p>
+<p>官网：<a href="https://www.gsr.io/" target="_blank" rel="noopener noreferrer">https://www.gsr.io/</a></p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020251002194135-0826966f4bbabc77becba7427b2401fc.png" width="1896" height="902" class="img_ev3q"></p>
+<p>他们支持250+种代币交易，覆盖面很广。主要做市场做市、风险管理和衍生品，期权这块玩得特别溜。</p>
+<p>最近在搞ETF提案，想把传统金融和加密市场连起来。他们给项目方提供国库管理服务，帮忙优化流动性、控制风险，这招挺聪明的，等于是把B端客户牢牢绑住了。</p>
+<p>2025年拿了个"加密市场做市商年度奖"，交易量一直在涨。说实话，做市商这个赛道竞争很激烈，GSR能保持这个位置不容易。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-wintermute体量最大的做市机构之一">3. Wintermute：体量最大的做市机构之一<a href="https://frank-quant.github.io/blog/some_top_infr#3-wintermute%E4%BD%93%E9%87%8F%E6%9C%80%E5%A4%A7%E7%9A%84%E5%81%9A%E5%B8%82%E6%9C%BA%E6%9E%84%E4%B9%8B%E4%B8%80" class="hash-link" aria-label="Direct link to 3. Wintermute：体量最大的做市机构之一" title="Direct link to 3. Wintermute：体量最大的做市机构之一">​</a></h3>
+<p>伦敦的Wintermute，这家的规模是真大。</p>
+<p>官网：<a href="https://www.wintermute.com/" target="_blank" rel="noopener noreferrer">https://www.wintermute.com/</a></p>
+<p>2025年持仓6.15亿美元，日交易量峰值能到22.4亿美元。</p>
+<p>这个体量在加密量化圈里算是头部了。</p>
+<p>他们主打算法做市、OTC交易和DeFi流动性，24小时不间断运行。技术上的特点是把CEX和DEX打通，在中心化和去中心化交易所之间做套利和对冲，这个其实挺难的，需要很强的技术积累。</p>
+<p>数据也很能说明问题：</p>
+<ul>
+<li>2024年OTC交易量同比+313%</li>
+<li>2025上半年期权交易量暴增412%</li>
+</ul>
+<p>这增长速度说明机构资金确实在大量涌入。Wintermute算是抓住了这波机会，而且他们的算法在市场波动的时候表现很稳，这点很关键。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4-jump-crypto传统高频巨头的加密分支">4. Jump Crypto：传统高频巨头的加密分支<a href="https://frank-quant.github.io/blog/some_top_infr#4-jump-crypto%E4%BC%A0%E7%BB%9F%E9%AB%98%E9%A2%91%E5%B7%A8%E5%A4%B4%E7%9A%84%E5%8A%A0%E5%AF%86%E5%88%86%E6%94%AF" class="hash-link" aria-label="Direct link to 4. Jump Crypto：传统高频巨头的加密分支" title="Direct link to 4. Jump Crypto：传统高频巨头的加密分支">​</a></h3>
+<p>Jump Trading的加密分支，芝加哥出来的。</p>
+<p>官网：<a href="https://jumpcrypto.com/" target="_blank" rel="noopener noreferrer">https://jumpcrypto.com/</a></p>
+<p>持仓3.33亿美元，看着不算最大，但别忘了他们背后是Jump Trading这个传统高频巨头，技术实力不是吹的。</p>
+<p>他们玩的是纯高频量化，算法响应速度能到微秒级。除了交易，还做项目投资和流动性支持。</p>
+<p>之前因为监管问题收缩了一阵，2025年重新杀回来了。</p>
+<p>今年的动作挺大：</p>
+<ul>
+<li>重启美国业务，开始扩招</li>
+<li>主导了16.5亿美元的私募融资</li>
+<li>交易份额从2023年开始稳步回升</li>
+</ul>
+<p>Jump这个团队在传统金融市场就很能打，进入加密圈之后有点水土不服，不过现在看来是缓过来了。他们这种有传统高频背景的机构，技术底子厚，值得持续关注。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="5-cumberland低调的otc老炮儿">5. Cumberland：低调的OTC老炮儿<a href="https://frank-quant.github.io/blog/some_top_infr#5-cumberland%E4%BD%8E%E8%B0%83%E7%9A%84otc%E8%80%81%E7%82%AE%E5%84%BF" class="hash-link" aria-label="Direct link to 5. Cumberland：低调的OTC老炮儿" title="Direct link to 5. Cumberland：低调的OTC老炮儿">​</a></h3>
+<p>DRW集团旗下的Cumberland，芝加哥的，2014年就开始做加密OTC了。</p>
+<p>官网：<a href="https://www.cumberland.io/" target="_blank" rel="noopener noreferrer">https://www.cumberland.io/</a></p>
+<p>他们不太公开AUM数据，但在OTC这个圈子里，Cumberland绝对是老大哥级别的存在。</p>
+<p>专门做场外交易，服务对象主要是机构。为什么要走OTC？因为大单在交易所直接打会有很大滑点，而且容易被盯上。Cumberland提供深度报价，让大额交易既高效又私密。</p>
+<p>2025年处理了8000万美元的OTC交易，市场份额一直很稳。这家机构特别低调，不像其他家那么爱宣传，但业绩一直在线。做OTC这行，信誉和关系网最重要，Cumberland这么多年积累下来的优势不是一两年能追上的。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="6-b2c2背靠三菱的传统金融入口">6. B2C2：背靠三菱的传统金融入口<a href="https://frank-quant.github.io/blog/some_top_infr#6-b2c2%E8%83%8C%E9%9D%A0%E4%B8%89%E8%8F%B1%E7%9A%84%E4%BC%A0%E7%BB%9F%E9%87%91%E8%9E%8D%E5%85%A5%E5%8F%A3" class="hash-link" aria-label="Direct link to 6. B2C2：背靠三菱的传统金融入口" title="Direct link to 6. B2C2：背靠三菱的传统金融入口">​</a></h3>
+<p>伦敦的B2C2，被三菱UFJ金融集团收购了，这个背景就很说明问题了。</p>
+<p>官网：<a href="https://www.b2c2.com/" target="_blank" rel="noopener noreferrer">https://www.b2c2.com/</a></p>
+<p>2025年计划融资2亿美元，准备大干一场。</p>
+<p>他们做电子OTC交易和机构做市，特点是把传统金融和加密市场连起来。有三菱这个大靠山，对接TradFi资金特别有优势。技术上用算法对冲工具优化衍生品执行，降低交易摩擦。</p>
+<p>看几个数据就知道分量：</p>
+<ul>
+<li>Robinhood 2025年Q1交易收入的12%来自B2C2</li>
+<li>在SBI的财报里也有不错的表现</li>
+</ul>
+<p>说白了，B2C2就是传统金融机构进入加密市场的一个重要通道。随着越来越多的传统资金要进场，这种桥梁型的机构会越来越吃香。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="写在最后">写在最后<a href="https://frank-quant.github.io/blog/some_top_infr#%E5%86%99%E5%9C%A8%E6%9C%80%E5%90%8E" class="hash-link" aria-label="Direct link to 写在最后" title="Direct link to 写在最后">​</a></h3>
+<p>盘点完这6家机构，能看出几个趋势：</p>
+<ol>
+<li><strong>AI+量化正在成为标配</strong>。Amber Group这种把AI用得深的机构，增长明显快很多。</li>
+<li><strong>传统金融加速入场</strong>。B2C2被三菱收购，Jump重启业务，都说明TradFi对加密市场越来越认真了。</li>
+<li><strong>OTC和做市商的重要性上升</strong>。市场越大，机构资金越多，对流动性和隐私交易的需求就越强。</li>
+</ol>
+<p>做量化这行，技术只是一方面，更重要的是对市场的理解和风险控制。这些顶级机构能活到现在并且越做越大，靠的不只是算法快，更多的是在不确定性中活下来的能力。</p>
+<p>有问题欢迎评论区讨论。本文数据来自2025年各机构公开报告，仅供参考。</p>
+<p><em>转载请注明出处：微信公众号"frank-quant"</em></p>]]></content>
+        <author>
+            <name>Frank Quant</name>
+            <uri>https://github.com/frank-quant</uri>
+        </author>
+        <category label="市场分析" term="市场分析"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年加密财富报告]]></title>
+        <id>https://frank-quant.github.io/blog/2025_crypto_report</id>
+        <link href="https://frank-quant.github.io/blog/2025_crypto_report"/>
+        <updated>2025-09-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[就在9月24日，国际居住与公民咨询机构 Henley & Partners发布了2025 年版《加密财富报告》，引起加密圈的广泛关注。]]></summary>
+        <content type="html"><![CDATA[<p>就在9月24日，国际居住与公民咨询机构 Henley &amp; Partners发布了2025 年版《<a href="https://www.henleyglobal.com/publications/crypto-wealth-report-2025" target="_blank" rel="noopener noreferrer">加密财富报告</a>》，引起加密圈的广泛关注。</p>
+<p>报告显示：以比特币为代表的数字资产正式进入“机构化与治理化并进”的新阶段，比特币百万富翁数量较上一周期显著增长（约 70%增幅），财富版图正随合规、税制与“数字离岸”（Digital Offshore）重构，资本、人才与企业正在向更友好的司法辖区集聚。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020250927190805-59a4c5fce35a2b38420ac9776354f1ef.png" width="1220" height="614" class="img_ev3q"></p>
+<p>过去 12 个月，加密货币百万富翁增长了惊人的 40%，其中比特币百万富翁激增 70% 至 145,100 人，同时截至 2025 年 6 月，加密货币市场总估值达到 3.3 万亿美元，比去年增长 45%。</p>
+<p>通读整个报告，我的判断是：2025 年更像“加密资产作为合规资产类别”的定价重估，而不是纯粹的牛市狂欢。对普通投资者来说，关键不在押注哪个币，而在搭好“合规账户—托管—再平衡”的赛道，确保“<strong>在车上</strong>”，不会在浪潮来临的时候错过。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1为什么这份报告值得读">1、为什么这份报告值得读？<a href="https://frank-quant.github.io/blog/2025_crypto_report#1%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%BB%BD%E6%8A%A5%E5%91%8A%E5%80%BC%E5%BE%97%E8%AF%BB" class="hash-link" aria-label="Direct link to 1、为什么这份报告值得读？" title="Direct link to 1、为什么这份报告值得读？">​</a></h3>
+<p>由 Henley &amp; Partners 联合 New World Wealth 数据团队发布，采用分层财富模型与 Lorenz 曲线估计高净值人群的加密持仓，并结合 CMC、Binance、BscScan、Etherscan 等公开来源进行交叉校验，避免单一交易所或链上样本偏差。</p>
+<p>同期发布的 2025 年版 Henley Crypto Adoption Index（HCAI）从合规、税制、市场深度、基础设施等维度综合评估各国“加密友好度”，便于财富与迁徙的综合决策。</p>
+<p>整体来看，报告内容是非常权威、非常具有参考价值的，建议大家都具体看看。有节点值得关注：</p>
+<ul>
+<li>报告更关注“财富分布与迁徙方向”，而非短周期价格波动；</li>
+<li>机构化与合规进展是解释 2024–2025 周期“价格与持仓结构变化”的关键外生变量。</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2加密货币无地域限制加大促进了增长">2、加密货币无地域限制，加大促进了增长<a href="https://frank-quant.github.io/blog/2025_crypto_report#2%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E6%97%A0%E5%9C%B0%E5%9F%9F%E9%99%90%E5%88%B6%E5%8A%A0%E5%A4%A7%E4%BF%83%E8%BF%9B%E4%BA%86%E5%A2%9E%E9%95%BF" class="hash-link" aria-label="Direct link to 2、加密货币无地域限制，加大促进了增长" title="Direct link to 2、加密货币无地域限制，加大促进了增长">​</a></h3>
+<p>在加密财富金字塔的顶端，超高净值人士数量迅速增加：450 位拥有 1 亿美元及以上加密资产的“分亿富翁”较去年增长 38%，而加密货币亿万富翁数量已升至 36 人，增长 29%。这一显著增长恰逢机构采纳加密货币的关键年份，美国现任总统川普和第一夫人首次推出加密货币也标志着历史性事件。</p>
+<p>Henley &amp; Partners 私人客户集团主管 Dominic Volek 表示，这一新兴加密财富阶层的快速崛起正迫使各国政府、税务机构和财富管理者面对前所未有的现实。“2024 年约有 14.4 万亿美元财富跨境流动，而现代金融体系的架构假设财富必须有固定地址，但加密货币并不需要。几千年来，财富存储意味着绑定地理位置。即便是数字银行，也需要居住地址和税号才能开设账户。而如今，仅凭 12 个记忆助记词，个人就能掌控价值十亿美元的比特币，并可在苏黎世或郑州即时访问。”</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3加密货币和黄金成富人首选另类资产">3、加密货币和黄金成富人首选另类资产<a href="https://frank-quant.github.io/blog/2025_crypto_report#3%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E5%92%8C%E9%BB%84%E9%87%91%E6%88%90%E5%AF%8C%E4%BA%BA%E9%A6%96%E9%80%89%E5%8F%A6%E7%B1%BB%E8%B5%84%E4%BA%A7" class="hash-link" aria-label="Direct link to 3、加密货币和黄金成富人首选另类资产" title="Direct link to 3、加密货币和黄金成富人首选另类资产">​</a></h3>
+<p>据 New World Wealth 研究主管 Andrew Amoils 表示，拥有大量加密资产的高净值人士是全球流动性最强的群体之一，突显了加密货币与跨境财富流动的紧密联系。“我们也看到加密货币和黄金成为全球富裕人群的首选另类资产。过去几十年，钻石等贵重宝石因便于携带，广泛用于跨境转移资金。如今，加密货币和黄金已取而代之，成为现代可携带财富的载体。”</p>
+<p>Volek 指出，这一无国界财富的快速扩张正在重塑高净值人士的全球布局策略。加密百万富翁正在寻找既认可数字资产、又能提供居住与公民身份解决方案的司法管辖区，以配合其国际流动生活方式。“对于这一新阶层投资者而言，跨多司法管辖区的多元化已成为对冲监管波动和技术落后的手段。能够同时参与创新中心并保持法律确定性被视为必要，投资迁徙计划为实现更高安全性和全球通达提供了结构化途径。”</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4哪些司法辖区更具吸引力">4、哪些司法辖区更具吸引力？<a href="https://frank-quant.github.io/blog/2025_crypto_report#4%E5%93%AA%E4%BA%9B%E5%8F%B8%E6%B3%95%E8%BE%96%E5%8C%BA%E6%9B%B4%E5%85%B7%E5%90%B8%E5%BC%95%E5%8A%9B" class="hash-link" aria-label="Direct link to 4、哪些司法辖区更具吸引力？" title="Direct link to 4、哪些司法辖区更具吸引力？">​</a></h3>
+<ul>
+<li>
+<p>阿联酋（UAE）：</p>
+<ul>
+<li>优势：政策明确、自由区制度、银行对合规主体较友好、个人与企业税制具吸引力。</li>
+<li>风险：牌照合规成本与实质经营要求提升，需持续运营合规。</li>
+</ul>
+</li>
+<li>
+<p>新加坡：</p>
+<ul>
+<li>优势：金融与法治基础扎实、家办/信托与银行体系成熟、对合规风控要求高。</li>
+<li>风险：审慎监管提升门槛，对业务实质与消费者保护要求严格。</li>
+</ul>
+</li>
+<li>
+<p>瑞士：</p>
+<ul>
+<li>优势：银行与加密基础设施完备，托管、审计、合规咨询生态领先。</li>
+<li>风险：成本较高，部分业务需细分牌照与审慎监管配套。</li>
+</ul>
+</li>
+<li>
+<p>葡萄牙/欧盟若干成员国：</p>
+<ul>
+<li>优势：MiCA 框架落地带来统一规则预期，部分国家个人税制具相对优势。</li>
+<li>风险：细则落地仍在推进中，跨国经营需按欧盟与本国双重合规设计。</li>
+</ul>
+</li>
+<li>
+<p>美国：</p>
+<ul>
+<li>优势：流动性与机构资本最深，合规产品线丰富（合规托管、ETF、期权）。</li>
+<li>风险：合规复杂度高、执法不确定性仍存，需强法务与审计支持。</li>
+</ul>
+</li>
+</ul>
+<p>综合来看：阿联酋以“政策清晰+通道友好+税制优势”见长，适合全球结算与做市型团队，但合规运营与实质经营要求在上行；新加坡偏“重治理与稳增长”，家办/基金与严谨风控更契合，门槛高但确定性强；瑞士更像“合规金库”，长期金库管理与多签托管体验最好，成本较高换取法治与银行稳健；欧盟（MiCA）带来统一规则红利，适合面向欧盟的合规发行与产品化，但需处理成员国细则差异；美国提供最深流动性与机构化通路，成熟机构可深耕，初创与成长型应谨慎节奏。</p>
+<p>我的建议是采用“多辖区分工”策略：UAE/SG 建业务主节点，瑞士管金库与托管，欧盟做合规产品，美国等流动性中心择机接入，以分段对冲政策与通道风险。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="5对量化交易者的启示">5、对量化交易者的启示<a href="https://frank-quant.github.io/blog/2025_crypto_report#5%E5%AF%B9%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E8%80%85%E7%9A%84%E5%90%AF%E7%A4%BA" class="hash-link" aria-label="Direct link to 5、对量化交易者的启示" title="Direct link to 5、对量化交易者的启示">​</a></h3>
+<p>（1）比特币财富效应回归</p>
+<p>比特币百万富翁数量同比大幅增长，新一轮财富创造集中于 BTC 现货与受托管产品，派生出“比特币计价基金/家族办公室记账”的趋势。</p>
+<p>ETF/托管账户的“持续净买入”对价格弹性影响更大，年轻投资者不妨把“定投 + 事件再平衡”当作主轴，而非追逐叙事新概念。</p>
+<p>（2）机构化进入“深水区”</p>
+<p>传统金融与合规银行加速接入，加密托管、审计与风控流程明显成熟，数字资产逐步纳入机构资产负债表与金库管理工具箱。</p>
+<p>机构化让“跑道”更稳，但 Alpha 更依赖微观结构与事件窗口，别指望闭眼拿高波收益。</p>
+<p>（3）“数字离岸”崛起</p>
+<p>资本并非逃离监管，而是寻求“清晰、可预期、跨境便利”的治理与税制环境。阿联酋、新加坡、瑞士等在合规友好度与银行通道可达性方面受青睐。</p>
+<p>建议先选“规则清晰、银行可用”的地方，再谈费率与税率。我的经验是，通道不稳，收益等于零。</p>
+<p>（4）人才与企业迁徙</p>
+<p>创业者与量化团队在“牌照可得+银行可用+税制中性/友好”的地区集聚，带动交易深度、做市与衍生品创新。</p>
+<p>建议团队出海先搭“主体—牌照—银行—托管—审计”五件套，再扩交易与募资，避免增长踩刹车。</p>
+<hr>
+<p>参考与延伸阅读：</p>
+<ul>
+<li>Henley &amp; Partners《The Crypto Wealth Report 2025》报告主页：<a href="https://www.henleyglobal.com/publications/crypto-wealth-report-2025" target="_blank" rel="noopener noreferrer">https://www.henleyglobal.com/publications/crypto-wealth-report-2025</a></li>
+<li>Henley &amp; Partners 官方新闻稿（2025-09-23）：<a href="https://www.henleyglobal.com/newsroom/press-releases/crypto-wealth-report-2025" target="_blank" rel="noopener noreferrer">https://www.henleyglobal.com/newsroom/press-releases/crypto-wealth-report-2025</a></li>
+<li>CryptoNews 中文解读：<a href="https://cryptonews.com/cn/news/crypto-wealth-report-2025-bitcoin-millionaires-alternative-asset/" target="_blank" rel="noopener noreferrer">https://cryptonews.com/cn/news/crypto-wealth-report-2025-bitcoin-millionaires-alternative-asset/</a></li>
+</ul>
+<p>注：本文关键信息依据上述公开来源。投资有风险，以上不构成投资建议。</p>]]></content>
+        <author>
+            <name>Frank Quant</name>
+            <uri>https://github.com/frank-quant</uri>
+        </author>
+        <category label="市场分析" term="市场分析"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新策略freedomV8准备实盘了]]></title>
+        <id>https://frank-quant.github.io/blog/freedomV8</id>
+        <link href="https://frank-quant.github.io/blog/freedomV8"/>
+        <updated>2025-09-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[上周末优化了一版新策略freedomV8，经过3天的dry-run效果还不错。]]></summary>
+        <content type="html"><![CDATA[<p>上周末优化了一版新策略freedomV8，经过3天的dry-run效果还不错。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020250925220441-e86b3a7d32560416a441034c2e311cd2.png" width="433" height="391" class="img_ev3q"></p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="1-收益情况">1. 收益情况<a href="https://frank-quant.github.io/blog/freedomV8#1-%E6%94%B6%E7%9B%8A%E6%83%85%E5%86%B5" class="hash-link" aria-label="Direct link to 1. 收益情况" title="Direct link to 1. 收益情况">​</a></h4>
+<p>累积运行3天，累积交易56笔，总ROI约1.44%，收益6.695美元。
+初始资金设置的比较少，60美元，最多允许4个trade。和小资金盘的实盘配置保持一致。</p>
+<p>从胜率看，Win/Loss 为 48/5，胜率还是比较高的，期望收益0.13，也就是平均每笔交易能够赚取0.13USDT。单笔利润不高，也是符合预期的。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020250925221448-6af8d010dd89b7b3fd16c8ab18f7f850.png" width="628" height="624" class="img_ev3q">
+<img decoding="async" loading="lazy" src="data:image/png;base64,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" width="462" height="201" class="img_ev3q"></p>
+<p>表现好的币值对有XPL\PUMP\BTC等。
+<img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020250925221715-1475ce6838d15da1b19c8ac79ac95600.png" width="465" height="812" class="img_ev3q"></p>
+<h4 class="anchor anchorWithStickyNavbar_LWe7" id="2风险与回撤">2.风险与回撤<a href="https://frank-quant.github.io/blog/freedomV8#2%E9%A3%8E%E9%99%A9%E4%B8%8E%E5%9B%9E%E6%92%A4" class="hash-link" aria-label="Direct link to 2.风险与回撤" title="Direct link to 2.风险与回撤">​</a></h4>
+<p>最大回撤3.03%，没有爆仓风险。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020250925222106-1bded98898fe5d03b5cb5591cae1fb78.png" width="1421" height="684" class="img_ev3q"></p>
+<p>整体来看，在dry-run周期内的表现是比较稳健的，低回撤+高胜率，但收益率不算高，只能刮刮头皮，稳定滚雪球。</p>
+<p>下一步，我将用40USDT小资金盘实盘，验证策略是否有效。</p>]]></content>
+        <author>
+            <name>Frank Quant</name>
+            <uri>https://github.com/frank-quant</uri>
+        </author>
+        <category label="量化策略" term="量化策略"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[首支美国狗币ETF正式上线交易]]></title>
+        <id>https://frank-quant.github.io/blog/first_doge_etf</id>
+        <link href="https://frank-quant.github.io/blog/first_doge_etf"/>
+        <updated>2025-09-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[!NOTE] 摘要]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>[!NOTE] 摘要
+首支美国狗币ETF正式上线交易，狗狗币暴涨7.37%至0.29美元；
+超过90种加密ETF产品排队等待审批；
+加密货币的下一波浪潮初见端倪。</p>
+</blockquote>
+<p>大家好，我是加密货币量化策略个人开发者——Frank。</p>
+<p>上周四（9月18日）美国首支狗狗币ETF——Rex-Osprey DOGE ETF（代号DOJE）正式上线，DOGE首日交易量爆表1700万美元，价格一度拉升24%至0.29美元高点。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020250922220729-cc9f73e2571ba50d48a244f2af8bdffb.png" width="360" height="321" class="img_ev3q"></p>
+<p>更值得关注的是，目前有 <strong>90-100</strong> 只加密货币 ETF 申请在队列中，行业分析师预计大概率通过。</p>
+<p>这是什么概念？我好像看到了“勃勃生机、万物竞发、百币争流”的巨大浪潮正在席卷而来。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020250922221217-e7f710eb5d62d072fb6fdece989ae27a.png" width="496" height="238" class="img_ev3q"></p>
+<p>这是 <strong>监管态度的分水岭时刻</strong>，与此前对加密资产偏保守的周期形成鲜明对比。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1为什么重要">1、为什么重要？<a href="https://frank-quant.github.io/blog/first_doge_etf#1%E4%B8%BA%E4%BB%80%E4%B9%88%E9%87%8D%E8%A6%81" class="hash-link" aria-label="Direct link to 1、为什么重要？" title="Direct link to 1、为什么重要？">​</a></h3>
+<p>狗狗币并非技术路线最强、也非“价值储藏”叙事最稳的资产，更不是因为它本身有多大的金融价值。大家更关注的，还是背后的 监管信号+市场意义+象征性突破。</p>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="加密货币主流化">加密货币主流化<a href="https://frank-quant.github.io/blog/first_doge_etf#%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E4%B8%BB%E6%B5%81%E5%8C%96" class="hash-link" aria-label="Direct link to 加密货币主流化" title="Direct link to 加密货币主流化">​</a></h5>
+<p>狗狗币这种起初被视为“梗币”（meme coin，带有搞笑／娱乐性质的币）被纳入 ETF，这在象征层面是非常大的事情 —— 它表明这些「被认为不那么严肃」或者 “仅靠文化与社区热度驱动” 的币，也正在被看作可以被主流机构与投资者“正规地”持有的一类资产。</p>
+<p>广大散户与机构对狗狗币的兴趣也可能被放大，这不只是金融上的一大步，更是 <strong>文化+金融结合的里程碑</strong>。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020250922223821-3b74dbf70ed74ba27f180a6ef3c1cca5.png" width="280" height="180" class="img_ev3q"></p>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="监管态度温和化">监管态度温和化<a href="https://frank-quant.github.io/blog/first_doge_etf#%E7%9B%91%E7%AE%A1%E6%80%81%E5%BA%A6%E6%B8%A9%E5%92%8C%E5%8C%96" class="hash-link" aria-label="Direct link to 监管态度温和化" title="Direct link to 监管态度温和化">​</a></h5>
+<p>以往 SEC 对于加密货币（尤其是非比特币／以太坊这种主流资产外的币种）的态度是比较谨慎的，审批 ETF 的标准也非常严格，只批准了 <strong>比特币现货 ETF、以太坊现货 ETF</strong>。</p>
+<p>狗狗币作为 <strong>meme 币</strong>，本质上没有比特币那样的稀缺性，也没有以太坊的智能合约生态。SEC 仍然批准，说明 <strong>监管机构愿意把“文化驱动、社区驱动”的资产纳入正规金融体系</strong>。这对整个加密行业是一个非常强烈且明确的信号，说明监管机构可能更倾向于让加密货币／数字资产以较合法受监管的方式进入主流金融市场。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020250922223838-1eb96a2afc794c3b2c59ca96d8c220b1.png" width="300" height="168" class="img_ev3q"></p>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="投资者渠道拓宽">投资者渠道拓宽<a href="https://frank-quant.github.io/blog/first_doge_etf#%E6%8A%95%E8%B5%84%E8%80%85%E6%B8%A0%E9%81%93%E6%8B%93%E5%AE%BD" class="hash-link" aria-label="Direct link to 投资者渠道拓宽" title="Direct link to 投资者渠道拓宽">​</a></h5>
+<p>以前想买 DOGE，要么去交易所开户，要么搞钱包、管理私钥，对很多传统投资者来说太复杂。</p>
+<p>现在有了 ETF，投资者只要在券商账户里买就行，和买股票一样简单。这让 <strong>机构资金（养老金、共同基金等）</strong> 也能合规持有狗狗币。这将导致<strong>流动性提高，资金更容易进入</strong>，价格发现会更透明。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020250922223940-b97e3465cc96f0d3944624594f72f7f8.png" width="275" height="183" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2对个人交易者有什么影响">2、对个人交易者有什么影响<a href="https://frank-quant.github.io/blog/first_doge_etf#2%E5%AF%B9%E4%B8%AA%E4%BA%BA%E4%BA%A4%E6%98%93%E8%80%85%E6%9C%89%E4%BB%80%E4%B9%88%E5%BD%B1%E5%93%8D" class="hash-link" aria-label="Direct link to 2、对个人交易者有什么影响" title="Direct link to 2、对个人交易者有什么影响">​</a></h3>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="交易门槛降低">交易门槛降低<a href="https://frank-quant.github.io/blog/first_doge_etf#%E4%BA%A4%E6%98%93%E9%97%A8%E6%A7%9B%E9%99%8D%E4%BD%8E" class="hash-link" aria-label="Direct link to 交易门槛降低" title="Direct link to 交易门槛降低">​</a></h5>
+<p>如果你在美国／能接触美股市场，不用再去币安、OKX 之类交易所开账户，直接券商就能买狗狗币 ETF。</p>
+<p>对国内大部分人来说，间接影响是：资金和关注度会推高 DOGE 的流动性和热度。</p>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="市场关注度提高">市场关注度提高<a href="https://frank-quant.github.io/blog/first_doge_etf#%E5%B8%82%E5%9C%BA%E5%85%B3%E6%B3%A8%E5%BA%A6%E6%8F%90%E9%AB%98" class="hash-link" aria-label="Direct link to 市场关注度提高" title="Direct link to 市场关注度提高">​</a></h5>
+<p>ETF 上市会吸引传统媒体、基金经理、普通投资者的注意，狗狗币的<strong>波动性和交易量会明显提升</strong>。更多资金流入后，价格走势可能会更大幅度跟随情绪变化，形成“ETF 概念炒作”。</p>
+<p>在之前，DOGE 更多依赖<strong>马斯克喊单、社交媒体热度</strong>。ETF 上市后，这种新闻效应更放大，个人交易者要学会“追踪热度而不是基本面”。</p>
+<h5 class="anchor anchorWithStickyNavbar_LWe7" id="波动结构变化">波动结构变化<a href="https://frank-quant.github.io/blog/first_doge_etf#%E6%B3%A2%E5%8A%A8%E7%BB%93%E6%9E%84%E5%8F%98%E5%8C%96" class="hash-link" aria-label="Direct link to 波动结构变化" title="Direct link to 波动结构变化">​</a></h5>
+<p>ETF 的存在让一些套利资金（ETF vs 现货 DOGE、期货 vs ETF）进场，会让市场在关键价位出现新的流动性层。可能出现<strong>短线更剧烈波动</strong>，但长线价格更稳定的情况。</p>
+<p>传统技术信号（均线/突破/形态）在极端情绪下的失真概率上升，需结合链上活跃度、社媒热度与资金面指标确认。</p>
+<p>对于量化交易从业者来说要更加关注这一点。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3我的判断与后续观察">3、我的判断与后续观察<a href="https://frank-quant.github.io/blog/first_doge_etf#3%E6%88%91%E7%9A%84%E5%88%A4%E6%96%AD%E4%B8%8E%E5%90%8E%E7%BB%AD%E8%A7%82%E5%AF%9F" class="hash-link" aria-label="Direct link to 3、我的判断与后续观察" title="Direct link to 3、我的判断与后续观察">​</a></h3>
+<ul>
+<li>短中期看，DOGE 及 Meme 板块将受益于话题与资金双轮驱动，交易性机会显著增加；但可持续性取决于 ETF 资金净流入的强度与期限结构。</li>
+<li>中长期看，若 ETF 成为合规“注意力加速器”，更多长尾资产或获得窗口期，但最终留下来的，仍是具备叙事持续输出能力与生态粘性的少数标的。</li>
+</ul>
+<p>总而言之，监管的新态度为加密市场打开了“二次扩容”的闸门。对个人交易者而言，机会更多、变化更快、也更需要纪律与体系。</p>
+<p>—</p>
+<p>免责声明：以上内容仅为市场研究与教育信息，不构成任何投资建议或承诺。市场有风险，投资需谨慎。</p>
+<p>参考链接：</p>
+<ul>
+<li>华尔街见闻｜加密货币ETF迎来分水岭：美国首只狗狗币ETF获批上市 <a href="https://wallstreetcn.com/articles/3755857" target="_blank" rel="noopener noreferrer"><code>https://wallstreetcn.com/articles/3755857</code></a></li>
+</ul>]]></content>
+        <author>
+            <name>Frank Quant</name>
+            <uri>https://github.com/frank-quant</uri>
+        </author>
+        <category label="市场分析" term="市场分析"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[揭秘最新“OKB链上赚币”骗局：高收益承诺背后的陷阱]]></title>
+        <id>https://frank-quant.github.io/blog/okb_lie</id>
+        <link href="https://frank-quant.github.io/blog/okb_lie"/>
+        <updated>2025-09-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[都说在b圈”骗钱比赚钱容易“，这话属实有几分道理。]]></summary>
+        <content type="html"><![CDATA[<p>都说在b圈”骗钱比赚钱容易“，这话属实有几分道理。</p>
+<p>接触b圈的人，往往都自诩深谙比特币+金融，张口美联储，闭口中本聪，眼里尽是一夜百倍的造富神话，视风险管理为无物。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020250920222614-d7e28b60a08b58c2c507c6ea894adf4e.png" width="680" height="409" class="img_ev3q"></p>
+<p>这样一群赌徒心态的人聚集，自然也滋生了各种骗局。</p>
+<p>今天就为大家揭秘一个入门级、但让很多初学者防不胜防的骗局。</p>
+<p>初入b圈的小白，往往会首先安装一个叫Telegram的软件。Telegram在国外堪称大名鼎鼎，以匿名+安全著称，非常适合非实名网聊，是很多b圈玩家的主阵地。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020250920222827-74158a0e2223fe791e7ec5c782ad3845.png" width="664" height="345" class="img_ev3q"></p>
+<p>登录Telegram，会被时不时拉进这样的聊天群内，打着“套利”“官方群”的名号，其实跟官方一毛钱关系都没有，套利也是套“你”的本金。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020250920221625-5932b31d92ad04bbd96da2072df70bef.png" width="455" height="326" class="img_ev3q"></p>
+<p>在聊天群内，会看到这样一条消息：</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020250920223415-39ac0bbda39c4bf50adc44659d80f10f.png" width="493" height="1172" class="img_ev3q"></p>
+<p>怎么样，三次交易就有30-40%的收益！多有诱惑力！群里还有一堆机器人托儿在拱火：</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020250920223552-e123d112925fd92235ab14c0de2c2798.png" width="535" height="437" class="img_ev3q"></p>
+<p>如果心神不坚定，或者被b圈高收益率的神话蒙蔽了双眼，很容易就轻信并转账，血本无归。</p>
+<p>这里为大家分析一下，怎么识别这类骗局。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1高收益承诺">1、高收益承诺<a href="https://frank-quant.github.io/blog/okb_lie#1%E9%AB%98%E6%94%B6%E7%9B%8A%E6%89%BF%E8%AF%BA" class="hash-link" aria-label="Direct link to 1、高收益承诺" title="Direct link to 1、高收益承诺">​</a></h3>
+<p>“1个ETH兑换25~50个OKB”“10%~20%收益”“30%~40%复利奖励”，这种高额、固定回报在正规交易所是不存在的。OKX 官方也<strong>不会</strong>推出这种“直接转ETH到某个地址，就返利OKB”的玩法。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020250920224117-ec48b6b03fcad71a7bc6f79a7925b260.png" width="423" height="176" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2操作方式太可疑">2、操作方式太可疑<a href="https://frank-quant.github.io/blog/okb_lie#2%E6%93%8D%E4%BD%9C%E6%96%B9%E5%BC%8F%E5%A4%AA%E5%8F%AF%E7%96%91" class="hash-link" aria-label="Direct link to 2、操作方式太可疑" title="Direct link to 2、操作方式太可疑">​</a></h3>
+<p>任何要求你转账到可疑地址的，都要警惕。</p>
+<p>把 ETH 转到所谓的“okx-onchainearn.eth”地址，然后承诺自动返还 OKB？千万不要。</p>
+<p>正规的 OKX Earn（赚币） 功能只能通过 OKX 官方 APP/官网操作，不会要求用户直接把币打到某个地址。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3假冒官方公告链接">3、假冒官方公告链接<a href="https://frank-quant.github.io/blog/okb_lie#3%E5%81%87%E5%86%92%E5%AE%98%E6%96%B9%E5%85%AC%E5%91%8A%E9%93%BE%E6%8E%A5" class="hash-link" aria-label="Direct link to 3、假冒官方公告链接" title="Direct link to 3、假冒官方公告链接">​</a></h3>
+<p>给的 telegra.ph 链接是任何人都能发布的网页，不代表官方公告。</p>
+<p>OKX 官方公告必须在 okx.com 官方网站或官方社交媒体账号发布。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4telegram假客服">4、Telegram假客服<a href="https://frank-quant.github.io/blog/okb_lie#4telegram%E5%81%87%E5%AE%A2%E6%9C%8D" class="hash-link" aria-label="Direct link to 4、Telegram假客服" title="Direct link to 4、Telegram假客服">​</a></h3>
+<p>所谓的 “OKX客服” Telegram 群或私聊链接大概率是假冒的，OKX 官方不会通过 Telegram 私聊让你转账。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020250920224623-f355d0d822facac4bc73abe5cbc6e842.png" width="531" height="276" class="img_ev3q"></p>
+<p>综合来看，上述是一个典型的“假冒OKX名义 + 高收益诱导转账”的诈骗。如果你把 ETH 转过去，资金极有可能无法追回。</p>
+<p>其他类似的还有很多，都枚举不过来，如果你遇到疑似骗局，可以先来问我，我帮你核实。</p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020250920224855-e42efd5d9bbac7f4807edf4c8c6fdbbe.png" width="487" height="548" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020250920224929-e6b9a4a88fdb9659fce9066225e77757.png" width="486" height="1299" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" src="https://frank-quant.github.io/assets/images/Pasted%20image%2020250920224952-c0b8a795154da48a7109f2dd9d9444af.png" width="502" height="742" class="img_ev3q"></p>
+<p>要时刻 谨记：</p>
+<p><strong>==在币圈，最大的风险不是涨跌，而是骗局。==</strong></p>
+<p>请把这篇文章转发给你身边b圈的朋友，避免更多人被骗。</p>]]></content>
+        <author>
+            <name>Frank Quant</name>
+            <uri>https://github.com/frank-quant</uri>
+        </author>
+        <category label="币圈骗局" term="币圈骗局"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-5 一小时写的量化策略]]></title>
+        <id>https://frank-quant.github.io/blog/gpt5-quant-strategy</id>
+        <link href="https://frank-quant.github.io/blog/gpt5-quant-strategy"/>
+        <updated>2025-08-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[赵长鹏 谈稳定币：]]></summary>
+        <content type="html"><![CDATA[<p>赵长鹏 谈稳定币：</p>
+<ol>
+<li>
+<p>币安平台承载了全球约 70% 的稳定币交易量，这使我们成为了行业内最重要的稳定币分发渠道。</p>
+</li>
+<li>
+<p>稳定币的发展历史。最早的稳定币技术雏形是「Colored Coins」，这是比特币社区最早探索的「资产上链」方案。2014 年，USDT 由 Brock Pierce 发起，项目初期发展平淡，随后 Pierce 逐步退出，让位给了现在的 USDT 团队 Craig Sellars 等人，一直到 2017 年依然没有太大起色。</p>
+</li>
+</ol>
+<p>2017 年后，币币交易所进入快速发展期，包括币安在内的众多平台都开始支持 USDT，推动了 USDT 的快速增长。</p>
+<p>随后，USDT 又迎来了第二波增长动力：许多亚洲用户对美元有需求，但直接开设美元账户存在困难，USDT 为他们提供了替代方案。</p>
+<ol start="3">
+<li>
+<p>稳定币与交易所已成为加密金融领域最核心的盈利板块之一。其商业模式高度简化：在获得合规牌照后，用户存入资金，平台即可发行代币；用户赎回代币时，平台则提供现金兑换。该模式具备低门槛、高流动性及巨大市场潜力，长期盈利能力显著。</p>
+</li>
+<li>
+<p>从国家战略层面看，美国政府对于稳定币的态度这几年发生了显著转变。美国这一届政府深刻理解了 Tether 对美元全球地位的战略价值。目前约有 1000 多亿 USDT 资金购买了美国国债，几乎所有 USDT 用户都在美国境外，这实际上扩大了美元的全球影响力。</p>
+</li>
+</ol>
+<p>这跟中国想扩大人民币在国际上的影响力这一想法是十分吻合的。稳定币本质上是帮助底层货币实现全球化的工具，这应该对各国具有巨大吸引力。当然，作为自由流通的区块链资产，稳定币确实对外汇管制构成挑战，但这些问题也是可以解决的。目前我接触的十几个国家都对发展本地稳定币表现出浓厚兴趣。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="我的直观感受">我的直观感受<a href="https://frank-quant.github.io/blog/gpt5-quant-strategy#%E6%88%91%E7%9A%84%E7%9B%B4%E8%A7%82%E6%84%9F%E5%8F%97" class="hash-link" aria-label="Direct link to 我的直观感受" title="Direct link to 我的直观感受">​</a></h2>
+<p>这场香港分享里，CZ 把稳定币讲得很透。我自己的理解更简单：稳定币=链上的美元/本币结算层，交易所=流动性与分发的加速器。谁掌握了结算与分发，谁就更接近现金流的“源头水”。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="我为何重视这次演讲">我为何重视这次演讲<a href="https://frank-quant.github.io/blog/gpt5-quant-strategy#%E6%88%91%E4%B8%BA%E4%BD%95%E9%87%8D%E8%A7%86%E8%BF%99%E6%AC%A1%E6%BC%94%E8%AE%B2" class="hash-link" aria-label="Direct link to 我为何重视这次演讲" title="Direct link to 我为何重视这次演讲">​</a></h2>
+<ul>
+<li>这是站在香港这个窗口说的话，意味着“可以先做、再优化”的政策试点思路更务实。</li>
+<li>稳定币不只是撮合交易的油，而是跨境资金的“通道标准”。这对量化、产品、以及真实贸易都有影响。</li>
+<li>如果把稳定币当成长线基础设施，关注点就不在币价，而在现金流确定性与可复制能力。</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="我对稳定币的三点判断">我对稳定币的三点判断<a href="https://frank-quant.github.io/blog/gpt5-quant-strategy#%E6%88%91%E5%AF%B9%E7%A8%B3%E5%AE%9A%E5%B8%81%E7%9A%84%E4%B8%89%E7%82%B9%E5%88%A4%E6%96%AD" class="hash-link" aria-label="Direct link to 我对稳定币的三点判断" title="Direct link to 我对稳定币的三点判断">​</a></h2>
+<ol>
+<li>稳定币是交易所的现金流引擎。规模越大，边际成本越低，做市与资金周转的效率越高。</li>
+<li>链上美元客观上扩大了美元影响力；如果本币稳定币能在合规框架内落地，会打开跨境小额结算与贸易的确定性需求。</li>
+<li>未来 2-3 年的确定性方向：合规化（牌照/储备披露）、链上国债化（收益锚）、账户抽象+钱包直连交易（更顺滑的用户体验）。</li>
+</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="我会怎么做非投资建议">我会怎么做（非投资建议）<a href="https://frank-quant.github.io/blog/gpt5-quant-strategy#%E6%88%91%E4%BC%9A%E6%80%8E%E4%B9%88%E5%81%9A%E9%9D%9E%E6%8A%95%E8%B5%84%E5%BB%BA%E8%AE%AE" class="hash-link" aria-label="Direct link to 我会怎么做（非投资建议）" title="Direct link to 我会怎么做（非投资建议）">​</a></h2>
+<ul>
+<li>研究路线：<!-- -->
+<ul>
+<li>持续跟踪香港/新加坡/阿联酋的稳定币试点与牌照节奏；</li>
+<li>建立发行方储备与审计的月度跟踪表，盯透明度与赎回渠道；</li>
+<li>记录跨链桥与原生链稳定币的流量迁移，识别风险点。</li>
+</ul>
+</li>
+<li>交易路线：<!-- -->
+<ul>
+<li>关注稳定币资金费、场外-场内价差、跨链桥溢价，做“波动小、容量可扩”的现金管理与价差策略；</li>
+<li>严格限制对手方曝险，避免黑盒发行方的单点风险；</li>
+<li>极端时刻按折价赎回假设做压力测试，提前配置流动性缓冲。</li>
+</ul>
+</li>
+<li>产品路线：<!-- -->
+<ul>
+<li>面向跨境中小商户，做 USDT/USDC 收款与对账工具；</li>
+<li>做一套“AI 微支付”结算 SDK（低额高频），以链上结算降低门槛；</li>
+<li>聚焦合规可用链与白名单资产，减少不必要的技术复杂度。</li>
+</ul>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="风险与我怎么处理">风险与我怎么处理<a href="https://frank-quant.github.io/blog/gpt5-quant-strategy#%E9%A3%8E%E9%99%A9%E4%B8%8E%E6%88%91%E6%80%8E%E4%B9%88%E5%A4%84%E7%90%86" class="hash-link" aria-label="Direct link to 风险与我怎么处理" title="Direct link to 风险与我怎么处理">​</a></h2>
+<ul>
+<li>合规风险：只走合规平台与白名单链路，保存 KYC/审计留痕。</li>
+<li>对手方风险：分散存放，优先可实时赎回渠道，设置单一发行方上限。</li>
+<li>技术风险：尽量用原生链稳定币，跨链桥只在必要时使用并设置提款冷却。</li>
+<li>流动性风险：按极端“折价赎回”做情景，提前准备替代通道。</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="写在最后">写在最后<a href="https://frank-quant.github.io/blog/gpt5-quant-strategy#%E5%86%99%E5%9C%A8%E6%9C%80%E5%90%8E" class="hash-link" aria-label="Direct link to 写在最后" title="Direct link to 写在最后">​</a></h2>
+<p>这波不是“币价故事”，更像“金融基础设施外溢”。对我来说，抓住稳定币这条主线，关注现金流确定性与可复制的执行路径，比盯盘更重要。后续如果有新的监管与产品进展，我会第一时间在这里更新我的观察与做法。</p>]]></content>
+        <author>
+            <name>Frank Quant</name>
+            <uri>https://github.com/frank-quant</uri>
+        </author>
+        <category label="量化策略" term="量化策略"/>
+        <category label="LLM应用" term="LLM应用"/>
+        <category label="GPT-5" term="GPT-5"/>
+        <category label="自动化" term="自动化"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cursor开了会员用不了gpt5]]></title>
+        <id>https://frank-quant.github.io/blog/cursor-gpt5-issue</id>
+        <link href="https://frank-quant.github.io/blog/cursor-gpt5-issue"/>
+        <updated>2025-08-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近在使用Cursor时遇到了一个问题：虽然已经开通了会员，但是无法使用GPT-5功能。]]></summary>
+        <content type="html"><![CDATA[<p>最近在使用Cursor时遇到了一个问题：虽然已经开通了会员，但是无法使用GPT-5功能。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="问题描述">问题描述<a href="https://frank-quant.github.io/blog/cursor-gpt5-issue#%E9%97%AE%E9%A2%98%E6%8F%8F%E8%BF%B0" class="hash-link" aria-label="Direct link to 问题描述" title="Direct link to 问题描述">​</a></h2>
+<ol>
+<li>已经成功开通了Cursor会员</li>
+<li>在设置中可以看到会员状态是激活的</li>
+<li>但是在使用AI功能时，仍然只能使用GPT-4，无法选择GPT-5</li>
+</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="可能的原因">可能的原因<a href="https://frank-quant.github.io/blog/cursor-gpt5-issue#%E5%8F%AF%E8%83%BD%E7%9A%84%E5%8E%9F%E5%9B%A0" class="hash-link" aria-label="Direct link to 可能的原因" title="Direct link to 可能的原因">​</a></h2>
+<ul>
+<li>API密钥配置问题</li>
+<li>账户权限设置</li>
+<li>地区限制</li>
+<li>功能更新延迟</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="解决方案">解决方案<a href="https://frank-quant.github.io/blog/cursor-gpt5-issue#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88" class="hash-link" aria-label="Direct link to 解决方案" title="Direct link to 解决方案">​</a></h2>
+<ol>
+<li>检查API密钥是否正确配置</li>
+<li>重新登录账户</li>
+<li>清除缓存并重启应用</li>
+<li>联系客服支持</li>
+</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="总结">总结<a href="https://frank-quant.github.io/blog/cursor-gpt5-issue#%E6%80%BB%E7%BB%93" class="hash-link" aria-label="Direct link to 总结" title="Direct link to 总结">​</a></h2>
+<p>这是一个常见的技术问题，通常通过重新配置或联系支持可以解决。</p>]]></content>
+        <author>
+            <name>Frank Quant</name>
+            <uri>https://github.com/frank-quant</uri>
+        </author>
+        <category label="LLM应用" term="LLM应用"/>
+        <category label="Cursor" term="Cursor"/>
+        <category label="GPT-5" term="GPT-5"/>
+        <category label="技术分享" term="技术分享"/>
+    </entry>
+</feed>
